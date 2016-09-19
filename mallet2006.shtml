@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2013)</title>
+    <META http-equiv="Content-Style-Type" content="text/css">
+    <META http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <LINK href="../2005/" rel="Prev">
+    <LINK href="../2007/" rel="Next">
+    <LINK href="../fmpublis.css" rel="alternate stylesheet" type="text/css" title="2014">
+    <LINK href="../fmpublis3.css" rel="stylesheet" type="text/css" title="2015">
+    <META name="Author" lang=fr content="Frederic Mallet">
+    <META name="keywords" lang="en" content="UML, Real-Time, MARTE, SysML">
+    <META name="description" lang=fr content="publications Frederic Mallet 2006">
+  </head>
+
+  <body>
+    <!--#include file="nav.html"-->
+    <header class="top">
+      <h1>Publications (2006)</h1>
+    </header>
+
+    <div class="content">
+      <a href="mallet06.bib">BibTex</a>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
+
+      <section>
+
+      <article>
+        Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute; and Marie-Agn&egrave;s Peraldi-Frati.
+        <span class="pubtitle">From UML to Petri Nets for non functional Property Verification.</span>
+        <a href="http://dx.doi.org/10.1109/IES.2006.357475"  target="autre"><sup>DOI</sup></a>
+<br>
+      <span class="media">Industrial Embedded Systems, 2006. {IES} '06. International Symposium on</span>, pp. 1-9, 2006.
+      </article>
+
+      <article>
+        Charles Andr&eacute; and Arnaud Cuccuru and Robert de Simone and Thiery Gautier and Fr&eacute;d&eacute;ric Mallet and Jean-Pierre Talpin.
+        <span class="pubtitle">Modeling with logical time in UML for real-time embedded system design.</span>
+<br>
+      <span class="media">MARTES 2006</span>, pp. 27-40, 2006.
+      </article>
+      </section>
+    <!--#include file="footer.html"-->
+    </div>
+  </body>
+</html>

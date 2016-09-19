@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2013)</title>
+    <META http-equiv="Content-Style-Type" content="text/css">
+    <META http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <LINK href="../2006/" rel="Prev">
+    <LINK href="../2008/" rel="Next">
+    <LINK href="../fmpublis.css" rel="alternate stylesheet" type="text/css" title="2014">
+    <LINK href="../fmpublis3.css" rel="stylesheet" type="text/css" title="2015">
+    <META name="Author" lang=fr content="Frederic Mallet">
+    <META name="keywords" lang="en" content="UML, Real-Time, MARTE, SysML">
+    <META name="description" lang=fr content="publications Frederic Mallet 2007">
+  </head>
+
+  <body>
+    <!--#include file="nav.html"-->
+    <header class="top">
+      <h1>Publications (2007)</h1>
+    </header>
+
+    <div class="content">
+      <a href="mallet07.bib">BibTex</a>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
+
+      <section>
+
+      <article>
+        Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet and Robert de Simone.
+        <span class="pubtitle">Modeling Time(s).</span>
+        <a href="http://dx.doi.org/10.1007/978-3-540-75209-7_38"  target="autre"><sup>DOI</sup></a>
+<br>
+, pp. 559-573.
+      </article>
+
+      <article>
+        Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet and Marie-Agn&egrave;s Peraldi-Frati.
+        <span class="pubtitle">Multiform Time in UML for Real-time Embedded Applications.</span>
+        <a href="http://dx.doi.org/10.1109/RTCSA.2007.51"  target="autre"><sup>DOI</sup></a>
+<br>
+, pp. 232-240.
+      </article>
+
+      <article>
+        Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet and Marie-Agn&egrave;s Peraldi-Frati.
+        <span class="pubtitle">A multiform time approach to real-time system modeling;
+Application to an automotive system.</span>
+        <a href="http://dx.doi.org/10.1109/SIES.2007.4297340"  target="autre"><sup>DOI</sup></a>
+<br>
+, pp. 234-241.
+      </article>
+
+      <article>
+        Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute; and Robert de Simone.
+        <span class="pubtitle">Modeling of immediate vs. delayed data communications: from
+AADL to UML Marte.</span>
+        <a href="http://www.ecsi-association.org/ecsi/main.asp?l1=library{\&}fn=def{\&}id=265"  target="autre"><sup>HREF</sup></a>
+<br>
+, pp. 249-254.
+      </article>
+
+      <article>
+        Robert de Simone and Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet.
+        <span class="pubtitle">Time Modeling in MARTE.</span>
+        <a href="http://www.ecsi-association.org/ecsi/main.asp?l1=library{\&}fn=def{\&}id=268"  target="autre"><sup>HREF</sup></a>
+<br>
+      <span class="media">FDL</span>, pp. 268-273, 2007.
+      </article>
+      </section>
+    <!--#include file="footer.html"-->
+    </div>
+  </body>
+</html>
