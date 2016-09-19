@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2013)</title>
+    <META http-equiv="Content-Style-Type" content="text/css">
+    <META http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <LINK href="../2008/" rel="Prev">
+    <LINK href="../2010/" rel="Next">
+    <LINK href="../fmpublis.css" rel="alternate stylesheet" type="text/css" title="2014">
+    <LINK href="../fmpublis3.css" rel="stylesheet" type="text/css" title="2015">
+    <META name="Author" lang=fr content="Frederic Mallet">
+    <META name="keywords" lang="en" content="UML, Real-Time, MARTE, SysML">
+    <META name="description" lang=fr content="publications Frederic Mallet 2009">
+  </head>
+
+  <body>
+    <!--#include file="nav.html"-->
+    <header class="top">
+      <h1>Publications (2009)</h1>
+    </header>
+
+    <div class="content">
+      <a href="mallet09.bib">BibTex</a>
+      <h2 class="category">Journal / <span class="francais">Revue</span></h2>
+
+      <section>
+
+      <article>
+        Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet.
+        <header>Mod\`ele de contraintes temporelles pour
+syst\`emes polychrones.</header>
+        <span class="media">Journal Europ{\'e}ens des Syst{\`e}mes Automatis{\'e}s</span>        7--9(43):725-739, 2009, Hermes/Lavoisier.
+      </article>
+
+      <article>
+        Charles André and Frédéric Mallet.
+        <header>Modèles de temps de MARTE et CCSL.</header>
+        <span class="media">Génie Logiciel</span>.
+      </article>
+      </section>
+      <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>
+
+      <section>
+
+      <article>
+        Fr&eacute;d&eacute;ric Mallet and Robert de Simone.
+        <span class="pubtitle">{M}ARTE vs. {AADL} for Discrete-Event and Discrete-Time Domains.</span>
+        <a href="http://dx.doi.org/10.1007/978-1-4020-9714-0_2"  target="autre"><sup>DOI</sup></a>
+<br>
+, pp. 27-41.
+      </article>
+      </section>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
+
+      <section>
+
+      <article>
+        Aamir Mehmood Khan and Frédéric Mallet  and Charles André and Robert de Simone.
+        <span class="pubtitle">IP-XACT components with abstract time characterization.</span>
+<br>
+      <span class="media">Forum on specification, verification and design languages, FDL 2009</span>, pp. xx-xx, 2009.
+      </article>
+
+      <article>
+        Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet.
+        <span class="pubtitle">Specification and Verification of Time Requirements with CCSL and Esterel.</span>
+        <a href="http://doi.acm.org/10.1145/1542452.1542475"  target="autre"><sup>HREF</sup></a>
+<br>
+, pp. 167-176.
+      </article>
+
+      <article>
+        Fr&eacute;d&eacute;ricMallet and CharlesAndr&eacute; and JulienDeAntoni.
+        <span class="pubtitle">Executing AADL Models with UML/Marte.</span>
+        <a href="http://dx.doi.org/10.1109/ICECCS.2009.10"  target="autre"><sup>DOI</sup></a>
+<br>
+, pp. 371-376.
+      </article>
+
+      <article>
+        Fr&eacute;d&eacute;ric Mallet and Marie-Agn\ès Peraldi-Frati and Charles Andr&eacute;.
+        <span class="pubtitle">Marte CCSL to execute East-ADL Timing Requirements.</span>
+        <a href="http://dx.doi.org/10.1109/ISORC.2009.18"  target="autre"><sup>DOI</sup></a>
+<br>
+, pp. 249-253.
+      </article>
+
+      <article>
+        Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute;.
+        <span class="pubtitle">On the Semantics of UML/Marte Clock Constraints.</span>
+        <a href="http://dx.doi.org/10.1109/ISORC.2009.27"  target="autre"><sup>DOI</sup></a>
+<br>
+, pp. 305-312.
+      </article>
+      </section>
+    <!--#include file="footer.html"-->
+    </div>
+  </body>
+</html>

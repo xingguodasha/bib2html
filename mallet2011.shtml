@@ -28,8 +28,7 @@
       <article>
         Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute; and Robert de Simone.
         <header>Logical time: specification vs. implementation.</header>
-        <span class="media">ACM SIGSOFT Software Engineering Notes</span>
-        36(1):1-8, 2011.
+        <span class="media">ACM SIGSOFT Software Engineering Notes</span>        36(1):1-8, 2011.
         <a href="http://dx.doi.org/http://doi.acm.org/10.1145/1921532.1921554"  target="autre"><sup>DOI</sup></a>
       </article>
       </section>
@@ -50,7 +49,7 @@
 design.</span>
 <br>
       <span class="media">Proceedings of the 2011 Workshop on Model Based Engineering for Embedded
-Systems Design</span>, M-BED'2011, pp. xx-xx, 2011.
+Systems Design</span>, pp. xx-xx, 2011.
       </article>
 
       <article>
@@ -89,7 +88,7 @@ and PSL.</span>
       </article>
 
       <article>
-        Gomez, Carlos and Deantoni, Julien and Mallet, Fr&eacute;d&eacute;ric.
+        CarlosGomez and JulienDeantoni and Fr&eacute;d&eacute;ricMallet.
         <span class="pubtitle">Semantic Multi-View model for Low-Power.</span>
 <br>
       <span class="media">Journ{\'e}es nationales IDM, CAL, et du GDR GPL</span>, pp. 19, 2011.
