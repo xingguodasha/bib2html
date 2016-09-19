@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2013)</title>
+    <META http-equiv="Content-Style-Type" content="text/css">
+    <META http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <LINK href="../2011/" rel="Prev">
+    <LINK href="../2013/" rel="Next">
+    <LINK href="../fmpublis.css" rel="alternate stylesheet" type="text/css" title="2014">
+    <LINK href="../fmpublis3.css" rel="stylesheet" type="text/css" title="2015">
+    <META name="Author" lang=fr content="Frederic Mallet">
+    <META name="keywords" lang="en" content="UML, Real-Time, MARTE, SysML">
+    <META name="description" lang=fr content="publications Frederic Mallet 2012">
+  </head>
+
+  <body>
+    <!--#include file="nav.html"-->
+    <header class="top">
+      <h1>Publications (2012)</h1>
+    </header>
+
+    <div class="content">
+      <a href="mallet12.bib">BibTex</a>
+      <h2 class="category">Journal / <span class="francais">Revue</span></h2>
+
+      <section>
+
+      <article>
+        Glitia, Calin and DeAntoni, Julien and Mallet, Frédéric and Millo, Jean-Vivien and Boulet, Pierre and Gamatié, Abdoulaye.
+        <header>Progressive and explicit refinement of scheduling for multidimensional data-flow applications using UML/MARTE.</header>
+        <span class="media">Design Automation for Embedded Systems</span>
+        16:137-169, 2012
+, Springer Netherlands.
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/s10617-012-9093-y"  target="autre"><sup>DOI</sup></a>
+      </article>
+      </section>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
+
+      <section>
+
+      <article>
+        Fr&eacute;d&eacute;ric Mallet.
+        <span class="pubtitle">Automatic generation of observers from MARTE/CCSL.</span>
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/RSP.2012.6380695"  target="autre"><sup>DOI</sup></a>
+<br>
+      <span class="media">RSP</span>, pp. 86-92, 2012.
+      </article>
+
+      <article>
+        Ziwei Liu and Jing Liu and Jifeng He and Fr&eacute;d&eacute;ric Mallet and Miaomiao Zhang.
+        <span class="pubtitle">Formal Specification of Hybrid MARTE Statecharts.</span>
+        <a href="http://doi.ieeecomputersociety.org/10.1109/TASE.2012.26"  target="autre"><sup>HREF</sup></a>
+<br>
+      <span class="media">TASE</span>, pp. 59-66, 2012.
+      </article>
+
+      <article>
+        Deantoni, Julien and Mallet, Fr&eacute;d&eacute;ric.
+        <span class="pubtitle">TimeSquare: Treat your Models with Logical Time.</span>
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/978-3-642-30561-0_4"  target="autre"><sup>DOI</sup></a>
+<br>
+      <span class="media">TOOLS (50)</span>, pp. 34-41, 2012.
+      </article>
+
+      <article>
+        Carlos Gomez and Julien DeAntoni and Fr&eacute;d&eacute;ric Mallet.
+        <span class="pubtitle">Multi-view Power Modeling Based on UML, MARTE and SysML.</span>
+        <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/SEAA.2012.66"  target="autre"><sup>DOI</sup></a>
+<br>
+      <span class="media">EUROMICRO-SEAA</span>, pp. 17-20, 2012.
+      </article>
+      </section>
+    <!--#include file="footer.html"-->
+    </div>
+  </body>
+</html>
