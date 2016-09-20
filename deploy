@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+REMOTE="fmallet@srv-aoste:/net/servers/www-sop/members/Frederic.Mallet/"
+for i in $* 
+do
+  src="mallet20${i}.shtml"
+  echo "src=$src"
+  tgt="${REMOTE}/publis/20${i}/`date '+%y%m%d'`.shtml"
+  echo "dst=$tgt"
+  scp "$src" "$tgt"
+done
+  
