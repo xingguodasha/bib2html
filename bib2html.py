@@ -54,8 +54,8 @@ def print_author(e,f):
 
 def invited(e,f):
     if 'comment' in e:
-        if 'invited' in e['comment']:
-            print(' <span class="invited">(invited)</span>', end='', file=f)
+        #if 'invited' in e['comment']:
+        print(' <span class="invited">(' + e['comment'] + ')</span>', end='', file=f)
 
 def print_doi(e,f): 
     if 'doi' in e:
@@ -87,7 +87,8 @@ def print_booktitle(entry,f):
         res = title
     
     e = entry.entry
-    
+
+    series = None
     if 'series' in e:
         if 'url' in e:
             series = '<a target="new" href="' + e['url'] + '">' + e['series'] + '</a>'

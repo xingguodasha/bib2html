@@ -20,6 +20,10 @@ class Entry:
         if ref is None:
             return short
         else:
+            title = ref.getTitle()
+            if title is None:
+                self.missing('Title')
+                return short
             return ref.getTitle() + ' (' + short + ')'
 
     def getTitle(self):

@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Fr&eacute;d&eacute;ric Mallet's publications (2013)</title>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2009)</title>
     <META http-equiv="Content-Style-Type" content="text/css">
     <META http-equiv="Content-Type" content="text/html;charset=utf-8">
     <LINK href="../2008/" rel="Prev">
@@ -26,16 +26,16 @@
       <section>
 
       <article>
-        Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet.
-        <header>Mod\`ele de contraintes temporelles pour
-syst\`emes polychrones.</header>
-        <span class="media">Journal Europ{\'e}ens des Syst{\`e}mes Automatis{\'e}s</span>        7--9(43):725-739, 2009, Hermes/Lavoisier.
+        Charles André and <span class="moi">F. Mallet</span>.
+        <header>Modèle de contraintes temporelles pour
+syst̀emes polychrones.</header>
+        <span class="media">Journal Européen des Systèmes Automatisés</span>        7--9(43):725-739, Hermes/Lavoisier, 2009.
       </article>
 
       <article>
-        Charles André and Frédéric Mallet.
+        Charles André and <span class="moi">F. Mallet</span>.
         <header>Modèles de temps de MARTE et CCSL.</header>
-        <span class="media">Génie Logiciel</span>.
+        <span class="media">Génie Logiciel</span>, 2009.
       </article>
       </section>
       <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>
@@ -43,11 +43,10 @@ syst\`emes polychrones.</header>
       <section>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Robert de Simone.
-        <span class="pubtitle">{M}ARTE vs. {AADL} for Discrete-Event and Discrete-Time Domains.</span>
-        <a href="http://dx.doi.org/10.1007/978-1-4020-9714-0_2"  target="autre"><sup>DOI</sup></a>
-<br>
-, pp. 27-41.
+        <span class="moi">F. Mallet</span> and Robert de Simone.
+        <span class="pubtitle">MARTE vs. AADL for Discrete-Event and Discrete-Time Domains.</span>
+        <a href="http://dx.doi.org/10.1007/978-1-4020-9714-0_2"  target="autre"><sup>DOI</sup></a><br>
+      Languages for Embedded Systems and their Applications, <span class="media">LNEE</span>, Vol. 36, pp. 27-41, Springer.
       </article>
       </section>
       <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
@@ -55,42 +54,83 @@ syst\`emes polychrones.</header>
       <section>
 
       <article>
-        Aamir Mehmood Khan and Frédéric Mallet  and Charles André and Robert de Simone.
+        Charles André and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Specification and Verification of Time Requirements with CCSL and Esterel.</span>
+        <a href="http://doi.acm.org/10.1145/1542452.1542475"  target="autre"><sup>HREF</sup></a><br>
+      <span class="media">ACM SIGPLAN/SIGBED conference on
+Languages, compilers, and tools for embedded systems (LCTES'09)</span>, pp. 167-176, ACM, 2009.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span>, Charles André and Julien DeAntoni.
+        <span class="pubtitle">Executing AADL Models with UML/Marte.</span>
+        <a href="http://dx.doi.org/10.1109/ICECCS.2009.10"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Conf. on Engineering of Complex
+Computer Systems (ICECCS - UML&AADL'09)</span>, pp. 371-376, IEEE Computer Society, 2009.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span> and Charles André.
+        <span class="pubtitle">On the Semantics of UML/Marte Clock Constraints.</span>
+        <a href="http://dx.doi.org/10.1109/ISORC.2009.27"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Symp. on Object-Oriented Real-Time
+Distributed Computing (ISORC'09)</span>, pp. 305-312, IEEE Computer Society, 2009.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span>, Marie-Agn\ès Peraldi-Frati and Charles André.
+        <span class="pubtitle">Marte CCSL to execute East-ADL Timing Requirements.</span>
+        <a href="http://dx.doi.org/10.1109/ISORC.2009.18"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Symp. on Object-Oriented Real-Time
+Distributed Computing (ISORC'09)</span>, pp. 249-253, IEEE Computer Society, 2009.
+      </article>
+
+      <article>
+        Aamir Mehmood Khan, <span class="moi">F. Mallet</span>, Charles André and Robert de Simone.
         <span class="pubtitle">IP-XACT components with abstract time characterization.</span>
 <br>
       <span class="media">Forum on specification, verification and design languages, FDL 2009</span>, pp. xx-xx, 2009.
       </article>
+      </section>
+      <h2 class="category">Other / <span class="francais">Autre</span></h2>
+
+      <section>
 
       <article>
-        Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet.
-        <span class="pubtitle">Specification and Verification of Time Requirements with CCSL and Esterel.</span>
-        <a href="http://doi.acm.org/10.1145/1542452.1542475"  target="autre"><sup>HREF</sup></a>
-<br>
-, pp. 167-176.
+        Julien Deantoni, <span class="moi">F. Mallet</span> and Charles André.
+        <span class="pubtitle">On the Formal Execution of UML and DSL models.</span>
+        <a href="http://www.mdd4dres.info/_media/mdd4dreswip09_submission_10.pdf?id=wip&cache=cache"  target="autre"><sup>HREF</sup></a>      <span class="media">Int. School on Model-Driven Development for Distributed, Realtime, Embedded Systems</span>, 2009.
       </article>
 
       <article>
-        Fr&eacute;d&eacute;ricMallet and CharlesAndr&eacute; and JulienDeAntoni.
-        <span class="pubtitle">Executing AADL Models with UML/Marte.</span>
-        <a href="http://dx.doi.org/10.1109/ICECCS.2009.10"  target="autre"><sup>DOI</sup></a>
-<br>
-, pp. 371-376.
+        Julien Deantoni, <span class="moi">F. Mallet</span>, Charles André and Benoît Ferrero.
+        <span class="pubtitle">TimeSquare, on the Formal Execution of UML and DSL models.</span>
+        <a href="http://www.mdd4dres.info/_tools/1f3d0539532e6396ad1ecadc4d363a9a"  target="autre"><sup>HREF</sup></a>      <span class="media">Int. School on Model-Driven Development for Distributed, Realtime, Embedded Systems</span>, 2009.
       </article>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Marie-Agn\ès Peraldi-Frati and Charles Andr&eacute;.
-        <span class="pubtitle">Marte CCSL to execute East-ADL Timing Requirements.</span>
-        <a href="http://dx.doi.org/10.1109/ISORC.2009.18"  target="autre"><sup>DOI</sup></a>
-<br>
-, pp. 249-253.
+        Benoît Ferrero, Charles André, <span class="moi">F. Mallet</span> and Robert de Simone.
+        <span class="pubtitle">TimeSquare: a software environment for timed systems.</span>
+        <a href="http://www-sop.inria.fr/oasis/SAFA/Abstracts_SAFA2009.html"  target="autre"><sup>HREF</sup></a>      <span class="media">Design, Automation & Test in Europe, U-Booth session</span>, 2009.
       </article>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute;.
-        <span class="pubtitle">On the Semantics of UML/Marte Clock Constraints.</span>
-        <a href="http://dx.doi.org/10.1109/ISORC.2009.27"  target="autre"><sup>DOI</sup></a>
-<br>
-, pp. 305-312.
+        <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">MARTE: The OMG UML2 Profile for Modeling and Analysis of Real-Time and Embedded systems.</span>
+      <span class="media">Sophia Antipolis MicroElectronics Forum</span>, 2009.
+ <span class="invited">(keynote speaker)</span>      </article>
+
+      <article>
+        O. Sokolsky, P. Feiler and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Logical time and Real-Time Scheduling.</span>
+      <span class="media">International Conference Engineering of Complex Computer Systems (ICECCS'09)</span>, 2009.
+ <span class="invited">(panel)</span>      </article>
+
+      <article>
+        Charles André and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Combining CCSL and Esterel to specify and
+verify time requirements.</span>
+      Research Report, <a href="http://hal.inria.fr/inria-00360528/en/">RR-6839</a>, INRIA, Feb. 2009.
       </article>
       </section>
     <!--#include file="footer.html"-->
