@@ -26,37 +26,33 @@
       <section>
 
       <article>
-        Jean-VivienMillo and Fr&eacute;d&eacute;ricMallet and AnthonyCoadou and SRamesh.
-        <header>Scenario-based verification in presence of variability using a synchronous approach.</header>
-        <span class="media">Frontiers of Computer Science</span>        7(5):650-672, 2013, Springer Berlin Heidelberg.
-        <a href="http://dx.doi.org/10.1007/s11704-013-3094-6"  target="autre"><sup>DOI</sup></a>
-      </article>
-
-      <article>
-        Jing Liu and Ziwei Liu and Jifeng He and Fr&eacute;d&eacute;ric Mallet and Zuohua Ding.
+        Jing Liu, Ziwei Liu, Jifeng He, <span class="moi">F. Mallet</span> and Zuohua Ding.
         <header>Hybrid MARTE statecharts.</header>
         <span class="media">Frontiers of Computer Science</span>        7(1):95-108, 2013.
-        <a href="http://dx.doi.org/10.1007/s11704-012-1301-1"  target="autre"><sup>DOI</sup></a>
-      </article>
+        <a href="http://dx.doi.org/10.1007/s11704-012-1301-1"  target="autre"><sup>DOI</sup></a>      </article>
+
+      <article>
+        Jean-Vivien Millo, <span class="moi">F. Mallet</span>, Anthony Coadou and S Ramesh.
+        <header>Scenario-based verification in presence of variability using a synchronous approach.</header>
+        <span class="media">Frontiers of Computer Science</span>        7(5):650-672, Springer Berlin Heidelberg, 2013.
+        <a href="http://dx.doi.org/10.1007/s11704-013-3094-6"  target="autre"><sup>DOI</sup></a>      </article>
       </section>
       <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>
 
       <section>
 
       <article>
-        YuliiaRomenska and Fr&eacute;d&eacute;ricMallet.
+        Yuliia Romenska and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Improving the Efficiency of Synchronized Product with Infinite Transition Systems.</span>
-        <a href="http://dx.doi.org/10.1007/978-3-319-03998-5_15"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">Communications in Computer and Information Systems</span>, Vol. 412, pp. 285-307, 2013, Springer.
+        <a href="http://dx.doi.org/10.1007/978-3-319-03998-5_15"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">ICTERI, Revised Selected Papers</span>, Communications in Computer and Information Systems, Vol. 412, pp. 285-307, Springer, 2013, ISBN: 978-3-319-03998-5.
       </article>
 
       <article>
-        GrygoriyZholtkevych and Fr&eacute;d&eacute;ricMallet and IrynaZaretska and GalynaZholtkevych.
+        Grygoriy Zholtkevych, <span class="moi">F. Mallet</span>, Iryna Zaretska and Galyna Zholtkevych.
         <span class="pubtitle">Two Semantic Models for Clock Relations in the Clock Constraint Specification Language.</span>
-        <a href="http://dx.doi.org/10.1007/978-3-319-03998-5_10"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">Communications in Computer and Information Systems</span>, Vol. 412, pp. 190-209, 2013, Springer.
+        <a href="http://dx.doi.org/10.1007/978-3-319-03998-5_10"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">ICTERI, Revised Selected Papers</span>, Communications in Computer and Information Systems, Vol. 412, pp. 190-209, Springer, 2013, ISBN: 978-3-319-03998-5.
       </article>
       </section>
       <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
@@ -64,89 +60,78 @@
       <section>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Jean-Vivien Millo.
-        <span class="pubtitle">Boundedness issues in CCSL specifications.</span>
-        <a href="http://dx.doi.org/10.1007/978-3-642-41202-8_3"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">Formal Methods and Software Engineering - ICFEM 2013</span>, LNCS 8144, pp. 20-35, 2013, Springer.
-      </article>
-
-      <article>
-        Jagadish Suryadevara and Cristina Cerschi Seceleanu and Fr&eacute;d&eacute;ric Mallet and Paul Pettersson.
-        <span class="pubtitle">Verifying MARTE/CCSL Mode Behaviors Using UPPAAL.</span>
-        <a href="http://dx.doi.org/10.1007/978-3-642-40561-7_1"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">Software Engineering and Formal Methods</span>, LNCS 8137, pp. 1-15, 2013, Springer.
-      </article>
-
-      <article>
-        Fr&eacute;d&eacute;ric Mallet and Jean-Vivien Millo and Robert de Simone.
-        <span class="pubtitle">Safe CCSL specifications and marked graphs.</span>
-        <a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6670955"  target="autre"><sup>HREF</sup></a>
-<br>
-      <span class="media">11th ACM/IEEE Int. Conf. on Formal Methods
-and Models for Codesign</span>, pp. 157-166, 2013, IEEE.
-      </article>
-
-      <article>
-        Beno&icirc;t Combemale and Julien DeAntoni and Matias Vara Larsen and Fr&eacute;d&eacute;ric Mallet and Olivier Barais and Benoit Baudry and Robert B. France.
+        Benoît Combemale, Julien DeAntoni, Matias Vara Larsen, <span class="moi">F. Mallet</span>, Olivier Barais, Benoit Baudry and Robert B. France.
         <span class="pubtitle">Reifying Concurrency for Executable Metamodeling.</span>
-        <a href="http://dx.doi.org/10.1007/978-3-319-02654-1_20"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">SLE</span>, pp. 365-384, 2013.
+        <a href="http://dx.doi.org/10.1007/978-3-319-02654-1_20"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Conf. on Software Language Engineering (SLE'13)</span>, pp. 365-384, Springer, Oct. 2013.
       </article>
 
       <article>
-        Arda Goknil and Julien DeAntoni and Marie-Agn&egrave;s Peraldi-Frati and Fr&eacute;d&eacute;ric Mallet.
-        <span class="pubtitle">Tool Support for the Analysis of TADL2 Timing Constraints
-Using TimeSquare.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/ICECCS.2013.28"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">Int. Conf. on Engineering of Complex
-Computer Systems</span>, pp. 145-154, 2013, IEEE.
-      </article>
-
-      <article>
-        Arda Goknil and Jagadish Suryadevara and Marie-Agn&egrave;s Peraldi-Frati and Fr&eacute;d&eacute;ric Mallet.
+        Arda Goknil, Jagadish Suryadevara, Marie-Agnès Peraldi-Frati and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Analysis Support for TADL2 Timing Constraints on EAST-ADL
 Models.</span>
-        <a href="http://dx.doi.org/10.1007/978-3-642-39031-9_8"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">ECSA</span>, pp. 89-105, 2013.
+        <a href="10.1007/978-3-642-39031-9_8"  target="autre"><sup>HREF</sup></a><br>
+      <span class="media">European Conf. Software Architecture (ECSA'13)</span>, pp. 89-105, Springer, Jul. 2013.
       </article>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet.
+        Arda Goknil, Julien DeAntoni, Marie-Agnès Peraldi-Frati and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Tool Support for the Analysis of TADL2 Timing Constraints
+Using TimeSquare.</span>
+        <a href="http://dx.doi.org/10.1109/ICECCS.2013.28"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Conf. on Engineering of Complex
+Computer Systems (ICECCS'13)</span>, pp. 145-154, IEEE, July 2013.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span> and Jean-Vivien Millo.
+        <span class="pubtitle">Boundedness issues in CCSL specifications.</span>
+        <a href="http://dx.doi.org/10.1007/978-3-642-41202-8_3"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Formal Methods and Software Engineering (ICFEM'13)</span>, LNCS 8144, pp. 20-35, Springer, Oct. 2013.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span>, Jean-Vivien Millo and Robert de Simone.
+        <span class="pubtitle">Safe CCSL specifications and marked graphs.</span>
+        <a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6670955"  target="autre"><sup>HREF</sup></a><br>
+      <span class="media">Int. Conf. on Formal Methods and Models for Codesign (MemoCode'13)</span>, pp. 157-166, IEEE, Oct. 2013.
+      </article>
+
+      <article>
+        Jagadish Suryadevara, Cristina Cerschi Seceleanu, <span class="moi">F. Mallet</span> and Paul Pettersson.
+        <span class="pubtitle">Verifying MARTE/CCSL Mode Behaviors Using UPPAAL.</span>
+        <a href="http://dx.doi.org/10.1007/978-3-642-40561-7_1"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Software Engineering and Formal Methods (SEFM'13)</span>, LNCS 8137, pp. 1-15, Springer, Sep. 2013.
+      </article>
+      </section>
+      <h2 class="category">Other / <span class="francais">Autre</span></h2>
+
+      <section>
+
+      <article>
+        Carlos Gomez, Julien DeAntoni and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Power consumption analysis using multi-view modeling.</span>
+        <a href="http://dx.doi.org/10.1109/PATMOS.2013.6662180"  target="autre"><sup>DOI</sup></a>      <span class="media">Int. W. on Power and Timing Modeling Optimization and Simulation, PATMOS'13</span>, pp. 235-238, Sep. 2013.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span>.
         <span class="pubtitle">UML Profile for MARTE: Time Model and CCSL.</span>
-        <a href="http://ceur-ws.org/Vol-1000/ICTERI-2013-p-289-294-T1.pdf"  target="autre"><sup>HREF</sup></a>
-<br>
-      <span class="media">ICTERI</span>, pp. 289-294, 2013.
-      </article>
+        <a href="http://ceur-ws.org/Vol-1000/ICTERI-2013-p-289-294-T1.pdf"  target="autre"><sup>HREF</sup></a>      <span class="media">ICTERI'13, Kherson, Ukraine</span>, pp. 289-294, June 2013.
+ <span class="invited">(Invited tutorial)</span>      </article>
 
       <article>
-        Iryna Zaretska and Galyna Zholtkevych and Grygoriy Zholtkevych and Fr&eacute;d&eacute;ric Mallet.
-        <span class="pubtitle">Clocks Model for Specification and Analysis of Timing in
-Real-Time Embedded Systems.</span>
-        <a href="http://ceur-ws.org/Vol-1000/ICTERI-2013-p-475-489-SMSV.pdf"  target="autre"><sup>HREF</sup></a>
-<br>
-      <span class="media">ICTERI</span>, pp. 475-489, 2013.
-      </article>
-
-      <article>
-        Yuliia Romenska and Fr&eacute;d&eacute;ric Mallet.
+        Yuliia Romenska and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Lazy Parallel Synchronous Composition of Infinite Transition
 Systems.</span>
-        <a href="http://ceur-ws.org/Vol-1000/ICTERI-2013-p-130-145.pdf"  target="autre"><sup>HREF</sup></a>
-<br>
-      <span class="media">ICTERI</span>, pp. 130-145, 2013.
+        <a href="http://ceur-ws.org/Vol-1000/ICTERI-2013-p-130-145.pdf"  target="autre"><sup>HREF</sup></a>      <span class="media">ICTERI</span>, pp. 130-145, June 2013.
       </article>
 
       <article>
-        Carlos Gomez and Julien DeAntoni and Fr&eacute;d&eacute;ric Mallet.
-        <span class="pubtitle">Power consumption analysis using multi-view modeling.</span>
-        <a href="http://dx.doi.org/10.1109/PATMOS.2013.6662180"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">PATMOS</span>, pp. 235-238, 2013.
+        Iryna Zaretska, Galyna Zholtkevych, Grygoriy Zholtkevych and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Clocks Model for Specification and Analysis of Timing in
+Real-Time Embedded Systems.</span>
+        <a href="http://ceur-ws.org/Vol-1000/ICTERI-2013-p-475-489-SMSV.pdf"  target="autre"><sup>HREF</sup></a>      <span class="media">ICTERI</span>, pp. 475-489, June 2013.
       </article>
       </section>
     <!--#include file="footer.html"-->

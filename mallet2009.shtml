@@ -46,7 +46,7 @@ syst̀emes polychrones.</header>
         <span class="moi">F. Mallet</span> and Robert de Simone.
         <span class="pubtitle">MARTE vs. AADL for Discrete-Event and Discrete-Time Domains.</span>
         <a href="http://dx.doi.org/10.1007/978-1-4020-9714-0_2"  target="autre"><sup>DOI</sup></a><br>
-      Languages for Embedded Systems and their Applications, <span class="media">LNEE</span>, Vol. 36, pp. 27-41, Springer.
+      <span class="media">Languages for Embedded Systems and their Applications</span>, LNEE, Vol. 36, pp. 27-41, Springer, 2009.
       </article>
       </section>
       <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
@@ -58,7 +58,7 @@ syst̀emes polychrones.</header>
         <span class="pubtitle">Specification and Verification of Time Requirements with CCSL and Esterel.</span>
         <a href="http://doi.acm.org/10.1145/1542452.1542475"  target="autre"><sup>HREF</sup></a><br>
       <span class="media">ACM SIGPLAN/SIGBED conference on
-Languages, compilers, and tools for embedded systems (LCTES'09)</span>, pp. 167-176, ACM, 2009.
+Languages, compilers, and tools for embedded systems (LCTES'09)</span>, pp. 167-176, ACM, June 2009.
       </article>
 
       <article>
@@ -66,7 +66,7 @@ Languages, compilers, and tools for embedded systems (LCTES'09)</span>, pp. 167-
         <span class="pubtitle">Executing AADL Models with UML/Marte.</span>
         <a href="http://dx.doi.org/10.1109/ICECCS.2009.10"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">Int. Conf. on Engineering of Complex
-Computer Systems (ICECCS - UML&AADL'09)</span>, pp. 371-376, IEEE Computer Society, 2009.
+Computer Systems (ICECCS - UML&AADL'09)</span>, pp. 371-376, IEEE Computer Society, June 2009.
       </article>
 
       <article>
@@ -74,7 +74,7 @@ Computer Systems (ICECCS - UML&AADL'09)</span>, pp. 371-376, IEEE Computer Socie
         <span class="pubtitle">On the Semantics of UML/Marte Clock Constraints.</span>
         <a href="http://dx.doi.org/10.1109/ISORC.2009.27"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">Int. Symp. on Object-Oriented Real-Time
-Distributed Computing (ISORC'09)</span>, pp. 305-312, IEEE Computer Society, 2009.
+Distributed Computing (ISORC'09)</span>, pp. 305-312, IEEE Computer Society, March 2009.
       </article>
 
       <article>
@@ -82,14 +82,14 @@ Distributed Computing (ISORC'09)</span>, pp. 305-312, IEEE Computer Society, 200
         <span class="pubtitle">Marte CCSL to execute East-ADL Timing Requirements.</span>
         <a href="http://dx.doi.org/10.1109/ISORC.2009.18"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">Int. Symp. on Object-Oriented Real-Time
-Distributed Computing (ISORC'09)</span>, pp. 249-253, IEEE Computer Society, 2009.
+Distributed Computing (ISORC'09)</span>, pp. 249-253, IEEE Computer Society, March 2009.
       </article>
 
       <article>
         Aamir Mehmood Khan, <span class="moi">F. Mallet</span>, Charles André and Robert de Simone.
         <span class="pubtitle">IP-XACT components with abstract time characterization.</span>
 <br>
-      <span class="media">Forum on specification, verification and design languages, FDL 2009</span>, pp. xx-xx, 2009.
+      <span class="media">Forum on specification, verification and design languages, FDL 2009</span>, pp. xx-xx, September 2009.
       </article>
       </section>
       <h2 class="category">Other / <span class="francais">Autre</span></h2>
@@ -99,31 +99,31 @@ Distributed Computing (ISORC'09)</span>, pp. 249-253, IEEE Computer Society, 200
       <article>
         Julien Deantoni, <span class="moi">F. Mallet</span> and Charles André.
         <span class="pubtitle">On the Formal Execution of UML and DSL models.</span>
-        <a href="http://www.mdd4dres.info/_media/mdd4dreswip09_submission_10.pdf?id=wip&cache=cache"  target="autre"><sup>HREF</sup></a>      <span class="media">Int. School on Model-Driven Development for Distributed, Realtime, Embedded Systems</span>, 2009.
+        <a href="http://www.mdd4dres.info/_media/mdd4dreswip09_submission_10.pdf?id=wip&cache=cache"  target="autre"><sup>HREF</sup></a>      <span class="media">Int. School on Model-Driven Development for Distributed, Realtime, Embedded Systems</span>, Apr. 2009.
       </article>
 
       <article>
         Julien Deantoni, <span class="moi">F. Mallet</span>, Charles André and Benoît Ferrero.
         <span class="pubtitle">TimeSquare, on the Formal Execution of UML and DSL models.</span>
-        <a href="http://www.mdd4dres.info/_tools/1f3d0539532e6396ad1ecadc4d363a9a"  target="autre"><sup>HREF</sup></a>      <span class="media">Int. School on Model-Driven Development for Distributed, Realtime, Embedded Systems</span>, 2009.
+        <a href="http://www.mdd4dres.info/_tools/1f3d0539532e6396ad1ecadc4d363a9a"  target="autre"><sup>HREF</sup></a>      <span class="media">Int. School on Model-Driven Development for Distributed, Realtime, Embedded Systems</span>, April 2009.
       </article>
 
       <article>
         Benoît Ferrero, Charles André, <span class="moi">F. Mallet</span> and Robert de Simone.
         <span class="pubtitle">TimeSquare: a software environment for timed systems.</span>
-        <a href="http://www-sop.inria.fr/oasis/SAFA/Abstracts_SAFA2009.html"  target="autre"><sup>HREF</sup></a>      <span class="media">Design, Automation & Test in Europe, U-Booth session</span>, 2009.
+        <a href="http://www-sop.inria.fr/oasis/SAFA/Abstracts_SAFA2009.html"  target="autre"><sup>HREF</sup></a>      <span class="media">Design, Automation & Test in Europe, U-Booth session</span>, April 2009.
       </article>
 
       <article>
         <span class="moi">F. Mallet</span>.
         <span class="pubtitle">MARTE: The OMG UML2 Profile for Modeling and Analysis of Real-Time and Embedded systems.</span>
-      <span class="media">Sophia Antipolis MicroElectronics Forum</span>, 2009.
+      <span class="media">Sophia Antipolis MicroElectronics Forum</span>, Sep. 2009.
  <span class="invited">(keynote speaker)</span>      </article>
 
       <article>
         O. Sokolsky, P. Feiler and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Logical time and Real-Time Scheduling.</span>
-      <span class="media">International Conference Engineering of Complex Computer Systems (ICECCS'09)</span>, 2009.
+      <span class="media">International Conference Engineering of Complex Computer Systems (ICECCS'09)</span>, June 2009.
  <span class="invited">(panel)</span>      </article>
 
       <article>

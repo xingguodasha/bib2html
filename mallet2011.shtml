@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Fr&eacute;d&eacute;ric Mallet's publications (2013)</title>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2011)</title>
     <META http-equiv="Content-Style-Type" content="text/css">
     <META http-equiv="Content-Type" content="text/html;charset=utf-8">
     <LINK href="../2010/" rel="Prev">
@@ -21,77 +21,98 @@
 
     <div class="content">
       <a href="mallet11.bib">BibTex</a>
+      <h2 class="category">Book / <span class="francais">Livre</span></h2>
+
+      <section>
+
+      <article>
+        <span class="moi">F. Mallet</span>.
+        <header>Logical Time @ Work for the Modeling and Analysis of Embedded Systems.</header>
+, Lambert Academic Publisher LAP, 2011, ISBN: 978-3-8433-9388-1.
+        <a href="http://www.morebooks.de/store/gb/book/logical-time-work-for-the-modeling-and-analysis-of-embedded-systems/isbn/978-3-8433-9388-1"  target="autre"><sup>HREF</sup></a>      </article>
+      </section>
       <h2 class="category">Journal / <span class="francais">Revue</span></h2>
 
       <section>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute; and Robert de Simone.
+        <span class="moi">F. Mallet</span>, Charles André and Robert de Simone.
         <header>Logical time: specification vs. implementation.</header>
-        <span class="media">ACM SIGSOFT Software Engineering Notes</span>        36(1):1-8, 2011.
-        <a href="http://dx.doi.org/http://doi.acm.org/10.1145/1921532.1921554"  target="autre"><sup>DOI</sup></a>
-      </article>
+        <span class="media">ACM SIGSOFT Software Engineering Notes</span>        36(1):1-8, ACM, 2011.
+        <a href="http://dx.doi.org/http://doi.acm.org/10.1145/1921532.1921554"  target="autre"><sup>DOI</sup></a>      </article>
       </section>
       <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
 
       <section>
 
       <article>
-        Xiaohong Chen and Jing Liu and Frederic Mallet and Zhi Jin.
-        <span class="pubtitle">Modeling Timing Requirements in Problem Frames Using CCSL.</span>
-<br>
-      <span class="media">18th Asia Pacific Software Engineering Conference (APSEC'11)</span>, pp. xx-xx, 2011.
-      </article>
-
-      <article>
-        Jean-François LE TALLEC and Julien DeAntoni and Robert De Simone and Beno&icirc;t Ferrero and Fr&eacute;d&eacute;ric Mallet and Laurent Maillet-Contoz.
-        <span class="pubtitle">Combining SystemC, IP-XACT and UML-MARTE in model-based SoC
-design.</span>
-<br>
-      <span class="media">Proceedings of the 2011 Workshop on Model Based Engineering for Embedded
-Systems Design</span>, pp. xx-xx, 2011.
-      </article>
-
-      <article>
-        Kelly Garc&eacute;s and Julien DeAntoni and Fr&eacute;d&eacute;ric Mallet.
+        Kelly Garcés, Julien DeAntoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">A Model-Based Approach for Reconciliation of Polychronous
 Execution Traces.</span>
-        <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/SEAA.2011.47"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">EUROMICRO-SEAA</span>, pp. 259-266, 2011.
+        <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/SEAA.2011.47"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">EUROMICRO Conf. on Software Engineering and Advanced
+Applications (EUROMICRO-SEAA)</span>, pp. 259-266, IEEE, Sep. 2011.
       </article>
 
       <article>
-        Isabelle Perseil and Laurent Pautet and Jean-Fran\ccois Rolland and Mamoun Filali and Didier Delanote and Stefan Van Baelen and Wouter Joosen and Yolande Berbers and Fr&eacute;d&eacute;ric Mallet and Dominique Bertrand and S&eacute;bastien Faucou and Abdelhafid Zitouni and Mahmoud Boufa\"\ida and Lionel Seinturier and Jo\"el Champeau and Thomas Abdoul and Peter H. Feiler and Chokri Mraidha and S&eacute;bastien G&eacute;rard.
-        <span class="pubtitle">An Efficient Modeling and Execution Framework for Complex
-Systems Development.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/ICECCS.2011.38"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">ICECCS</span>, pp. 317-331, 2011.
-      </article>
-
-      <article>
-        Ling Yin and Fr&eacute;d&eacute;ric Mallet and Jing Liu.
-        <span class="pubtitle">Verification of MARTE/CCSL Time Requirements in Promela/SPIN.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/ICECCS.2011.14"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">ICECCS</span>, pp. 65-74, 2011.
-      </article>
-
-      <article>
-        R&eacute;gis Gascon and Fr&eacute;d&eacute;ric Mallet and Julien DeAntoni.
+        Régis Gascon, <span class="moi">F. Mallet</span> and Julien DeAntoni.
         <span class="pubtitle">Logical Time and Temporal Logics: Comparing UML MARTE/CCSL
 and PSL.</span>
-        <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/TIME.2011.10"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">TIME</span>, pp. 141-148, 2011.
+        <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/TIME.2011.10"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Symp. on Temporal Representation
+and Reasoning (TIME)</span>, pp. 141-148, IEEE, Sep. 2011.
       </article>
 
       <article>
-        CarlosGomez and JulienDeantoni and Fr&eacute;d&eacute;ricMallet.
+        Isabelle Perseil, Laurent Pautet, Jean-François Rolland, Mamoun Filali, Didier Delanote, Stefan Van Baelen, Wouter Joosen, Yolande Berbers, <span class="moi">F. Mallet</span>, Dominique Bertrand, Sébastien Faucou, Abdelhafid Zitouni, Mahmoud Boufaïda, Lionel Seinturier, Joël Champeau, Thomas Abdoul, Peter H. Feiler, Chokri Mraidha and Sébastien Gérard.
+        <span class="pubtitle">An Efficient Modeling and Execution Framework for Complex
+Systems Development.</span>
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/ICECCS.2011.38"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Conf. on Engineering of Complex
+Computer Systems (ICECCS)</span>, pp. 317-331, IEEE Computer Society, Apr. 2011.
+      </article>
+
+      <article>
+        Ling Yin, <span class="moi">F. Mallet</span> and Jing Liu.
+        <span class="pubtitle">Verification of MARTE/CCSL Time Requirements in Promela/SPIN.</span>
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/ICECCS.2011.14"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Conf. on Engineering of Complex
+Computer Systems (ICECCS)</span>, pp. 65-74, IEEE Computer Society, Apr. 2011.
+      </article>
+
+      <article>
+        Xiaohong Chen, Jing Liu, <span class="moi">F. Mallet</span> and Zhi Jin.
+        <span class="pubtitle">Modeling Timing Requirements in Problem Frames Using CCSL.</span>
+        <a href="http://dx.doi.org/10.1109/APSEC.2011.30"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Asia Pacific Software Engineering Conf. (APSEC'11)</span>, pp. 381-388, IEEE, Dec. 2011.
+      </article>
+      </section>
+      <h2 class="category">Other / <span class="francais">Autre</span></h2>
+
+      <section>
+
+      <article>
+        Carlos Gomez, Julien Deantoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Semantic Multi-View model for Low-Power.</span>
-<br>
-      <span class="media">Journ{\'e}es nationales IDM, CAL, et du GDR GPL</span>, pp. 19, 2011.
+        <a href="http://hal.inria.fr/hal-00596239/en"  target="autre"><sup>HREF</sup></a>      <span class="media">Journées nationales IDM, CAL, et du GDR GPL</span>, pp. 19, June 2011.
+      </article>
+
+      <article>
+        Jean-François LE TALLEC, Julien DeAntoni, Robert De Simone, Benoît Ferrero, <span class="moi">F. Mallet</span> and Laurent Maillet-Contoz.
+        <span class="pubtitle">Combining SystemC, IP-XACT and UML-MARTE in model-based SoC design.</span>
+      <span class="media">Int. W. on Model Based Engineering for Embedded Systems Design, M-BED'11</span>, Mar. 2011.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span> and J. DeAntoni.
+        <span class="pubtitle">TimeSquare : outil pour la conception de systèmes temps-réel et embarqués.</span>
+      <span class="media">RivieraDev</span>, Oct. 2011.
+ <span class="invited">(invited)</span>      </article>
+
+      <article>
+        Kelly Garcés, Julien Deantoni and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Transforming CCSL partially-ordered Traces into UML Interaction Diagrams.</span>
+      Research Report, <a href="http://hal.archives-ouvertes.fr/hal-00652987/en/">RR-7842</a>, 30 pages, INRIA, Dec. 2011.
       </article>
       </section>
     <!--#include file="footer.html"-->

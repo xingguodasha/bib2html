@@ -3,6 +3,21 @@ from bibtexparser.bparser import BibTexParser
 from bibtexparser.customization import convert_to_unicode
 #from bibtexparser.customization import homogeneize_latex_encoding
 import Entry
+
+MONTHS = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'June', 'Jul.', 'Aug.', 'Sep.', 'Oct.', 'Nov.', 'Dec.']
+def month(entry):
+    if 'month' not in entry.entry:
+        ref = entry.getRef()
+        if ref is not None:
+            return month(ref)
+        else:
+            return ''
+        
+    m = entry.entry['month']
+    if m.isdigit():
+        return MONTHS[int(m) - 1] + ' '
+    else:
+        return m + ' '
        
 def pages(e):
     if 'pages' in e:
@@ -83,18 +98,18 @@ def print_publisher(entry,f):
 
 def print_booktitle(entry,f):
     title = entry.getProcTitle()
-    if title is not None:
-        res = title
-    
+
     e = entry.entry
+
+    if title is not None:
+        if 'url' in e:
+            res = '<a target="new" href="' + e['url'] + '">' + title + '</a>'
+        else:
+            res = '<span class="media">' + title + '</span>'
 
     series = None
     if 'series' in e:
-        if 'url' in e:
-            series = '<a target="new" href="' + e['url'] + '">' + e['series'] + '</a>'
-        else:
-            series = '<span class="media">' + e['series'] + '</span>'
-
+        series = e['series']
         if title is not None:
             res = res + ', ' + series
         else:
@@ -150,9 +165,67 @@ def publisher_year(entry, f):
     if year is None:
         entry.missing('year')
     else:    
-        print(', '+ year, end='', file=f)
+        print(', '+ month(entry) + year, end='', file=f)
+
+    if 'isbn' in entry.entry:
+        print(', ISBN: '+entry.entry['isbn'], end='', file=f)        
         
     print('.', file=f)            
+
+def print_book(db, f):
+    l = [b for b in db.entries if b['ENTRYTYPE']=='book']
+    
+    if len(l) == 0:
+        return
+
+    if 'author' not in l[0]:
+        print('skip', l[0]['ID'])
+        return
+    
+    print('      <h2 class="category">Book / <span class="francais">Livre</span></h2>', file=f)
+    print('', file=f)
+    print('      <section>', file=f)
+    
+    for e in l:
+        entry = Entry.Entry(db, e)
+        print('', file=f)
+        print('      <article>', file=f)
+        print_author(e, f)
+        print('        <header>' + clean(e['title']) + '.</header>', file=f)
+
+        publisher_year(entry,f)
+        
+        print_doi(e, f)
+        print('      </article>', file=f)
+
+    print('      </section>', file=f)
+
+def print_thesis(db, f):
+    l = [b for b in db.entries if b['ENTRYTYPE']=='phdthesis']
+    
+    if len(l) == 0:
+        return
+    
+    print('      <h2 class="category">Thesis / <span class="francais">Thése</span></h2>', file=f)
+    print('', file=f)
+    print('      <section>', file=f)
+    
+    for e in l:
+        entry = Entry.Entry(db, e)
+        
+        print('', file=f)
+        print('      <article>', file=f)
+        print_author(e, f)
+        print('        <header>' + clean(e['title']) + '.</header>', file=f)
+        print('        <span class="media">' + e['school'] + '</span>', end='', file=f)
+
+        publisher_year(entry,f)
+        
+        print_doi(e, f)
+        
+        print('      </article>', file=f)
+
+    print('      </section>', file=f)
     
 def print_journals(db, f):
     journals = [b for b in db.entries if b['ENTRYTYPE']=='article']
@@ -248,16 +321,6 @@ def print_proc(db, f):
 
     print('      </section>', file=f)
 
-MONTHS = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'Jun.', 'Jul.', 'Aug.', 'Sep.', 'Oct.', 'Nov.', 'Dec.']
-def month(e):
-    if 'month' not in e:
-        return ''
-    m = e['month']
-    if m.isdigit():
-        return MONTHS[int(m) - 1] + ' '
-    else:
-        return m + ' '
-
 def number(e):
     if 'number' not in e:
         print('Number not in', e['ID'])
@@ -292,7 +355,7 @@ def print_rr(db, f):
         if 'pages' in e:
             print(', pp. ' + pages(e), end='', file=f)
         if 'year' in e:
-            print(', '+ e['year'], end='', file=f)
+            print(', '+ month(Entry.Entry(db, e)) + e['year'], end='', file=f)
         else:
             print('No year in', e['ID'])
 
@@ -302,6 +365,7 @@ def print_rr(db, f):
         print('      </article>', file=f)
 
     for e in rr:
+        entry = Entry.Entry(db, e)
         print('', file=f)
         print('      <article>', file=f)
         print_author(e, f)
@@ -313,7 +377,7 @@ def print_rr(db, f):
         if 'institution' in e:
             print(', ' + e['institution'], end='', file=f)
         if 'year' in e:
-            print(', '+ month(e) + e['year'], end='', file=f)
+            print(', '+ month(entry) + e['year'], end='', file=f)
         else:
             print('No year in', e['ID'])
 
@@ -360,12 +424,11 @@ def bib(year):
         print('    <div class="content">', file=f)
         print('      <a href="' + bibfilename + '">BibTex</a>', file=f)
 
+        print_book(db,f)
+        print_thesis(db,f)
         print_journals(db, f)
-
         print_chapters(db, f)
-
         print_proc(db, f)
-
         print_rr(db, f)
         
         print('    <!--#include file="footer.html"-->', file=f)

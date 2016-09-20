@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Fr&eacute;d&eacute;ric Mallet's publications (2013)</title>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2012)</title>
     <META http-equiv="Content-Style-Type" content="text/css">
     <META http-equiv="Content-Type" content="text/html;charset=utf-8">
     <LINK href="../2011/" rel="Prev">
@@ -26,10 +26,20 @@
       <section>
 
       <article>
-        CalinGlitia and JulienDeAntoni and FrédéricMallet and Jean-VivienMillo and PierreBoulet and AbdoulayeGamatié.
+        Calin Glitia, Julien DeAntoni, <span class="moi">F. Mallet</span>, Jean-Vivien Millo, Pierre Boulet and Abdoulaye Gamatié.
         <header>Progressive and explicit refinement of scheduling for multidimensional data-flow applications using UML/MARTE.</header>
-        <span class="media">Design Automation for Embedded Systems</span>        16:137-169, 2012, Springer Netherlands.
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/s10617-012-9093-y"  target="autre"><sup>DOI</sup></a>
+        <span class="media">Design Automation for Embedded Systems</span>        16(2):137-169, Springer Netherlands, 2012.
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/s10617-012-9093-y"  target="autre"><sup>DOI</sup></a>      </article>
+      </section>
+      <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>
+
+      <section>
+
+      <article>
+        Calin Glitia, Julien DeAntoni and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Logical Time @ Work: Capturing Data Dependencies and Platform Constraints.</span>
+        <a href="http://dx.doi.org/10.1007/978-1-4614-1427-8_14"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">System Specification and Design Languages</span>, Lecture Notes in Electrical Engineering, Vol. 106, pp. 223-238, Springer New York, 2012, ISBN: 978-1-4614-1427-8.
       </article>
       </section>
       <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
@@ -37,35 +47,32 @@
       <section>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet.
-        <span class="pubtitle">Automatic generation of observers from MARTE/CCSL.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/RSP.2012.6380695"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">RSP</span>, pp. 86-92, 2012.
-      </article>
-
-      <article>
-        Ziwei Liu and Jing Liu and Jifeng He and Fr&eacute;d&eacute;ric Mallet and Miaomiao Zhang.
-        <span class="pubtitle">Formal Specification of Hybrid MARTE Statecharts.</span>
-        <a href="http://doi.ieeecomputersociety.org/10.1109/TASE.2012.26"  target="autre"><sup>HREF</sup></a>
-<br>
-      <span class="media">TASE</span>, pp. 59-66, 2012.
-      </article>
-
-      <article>
-        JulienDeantoni and Fr&eacute;d&eacute;ricMallet.
+        Julien Deantoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">TimeSquare: Treat your Models with Logical Time.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/978-3-642-30561-0_4"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">TOOLS (50)</span>, pp. 34-41, 2012.
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/978-3-642-30561-0_4"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Conf. on Objects, Models, Components, Patterns, (TOOLS(50))</span>, LNCS 7304, pp. 34-41, Springer, May 2012.
       </article>
 
       <article>
-        Carlos Gomez and Julien DeAntoni and Fr&eacute;d&eacute;ric Mallet.
+        Carlos Gomez, Julien DeAntoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Multi-view Power Modeling Based on UML, MARTE and SysML.</span>
-        <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/SEAA.2012.66"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">EUROMICRO-SEAA</span>, pp. 17-20, 2012.
+        <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/SEAA.2012.66"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Euromicro Conf. on Software Engineering and Advanced Applications (EUROMICRO-SEAA)</span>, pp. 17-20, IEEE Computer Society, Sep. 2012.
+      </article>
+
+      <article>
+        Ziwei Liu, Jing Liu, Jifeng He, <span class="moi">F. Mallet</span> and Miaomiao Zhang.
+        <span class="pubtitle">Formal Specification of Hybrid MARTE Statecharts.</span>
+        <a href="http://doi.ieeecomputersociety.org/10.1109/TASE.2012.26"  target="autre"><sup>HREF</sup></a><br>
+      <span class="media">Int. Symp. on Theoretical Aspects of
+Software Engineering (TASE'12)</span>, pp. 59-66, IEEE, Jul. 2012.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Automatic generation of observers from MARTE/CCSL.</span>
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/RSP.2012.6380695"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">nternational Symp. on Rapid System Prototyping (RSP'12)</span>, pp. 86-92, IEEE, October 2012.
       </article>
       </section>
     <!--#include file="footer.html"-->

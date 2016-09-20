@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Fr&eacute;d&eacute;ric Mallet's publications (2013)</title>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2010)</title>
     <META http-equiv="Content-Style-Type" content="text/css">
     <META http-equiv="Content-Type" content="text/html;charset=utf-8">
     <LINK href="../2009/" rel="Prev">
@@ -21,41 +21,48 @@
 
     <div class="content">
       <a href="mallet10.bib">BibTex</a>
+      <h2 class="category">Thesis / <span class="francais">Thése</span></h2>
+
+      <section>
+
+      <article>
+        <span class="moi">F. Mallet</span>.
+        <header>Logical Time in Model Driven Engineering.</header>
+        <span class="media">Université Nice Sophia Antipolis</span>, Nov. 2010.
+        <a href="http://tel.archives-ouvertes.fr/tel-00541140/en/"  target="autre"><sup>HREF</sup></a>      </article>
+      </section>
       <h2 class="category">Journal / <span class="francais">Revue</span></h2>
 
       <section>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute; and Fran\ccois Lagarde.
+        <span class="moi">F. Mallet</span>, Charles André and François Lagarde.
         <header>Un processus automatique pour concevoir les profils UML.</header>
-        <span class="media">Technique et Sciences Informatiques</span>        29(4--5):391-419, 2010.
+        <span class="media">Technique et Sciences Informatiques</span>        29(4--5):391-419, Mai 2010.
       </article>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Julien DeAntoni and Charles Andr&eacute; and Robert de Simone.
+        <span class="moi">F. Mallet</span>, Julien DeAntoni, Charles André and Robert de Simone.
         <header>The clock constraint specification language for building timed causality models.</header>
         <span class="media">Innovations in Systems and Software Engineering</span>        6(1--2):99-106, 2010.
-        <a href="http://dx.doi.org/10.1007/s11334-009-0109-0"  target="autre"><sup>DOI</sup></a>
-      </article>
+        <a href="http://dx.doi.org/10.1007/s11334-009-0109-0"  target="autre"><sup>DOI</sup></a>      </article>
       </section>
       <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>
 
       <section>
 
       <article>
-        Charles Andr&eacute; and Julien DeAntoni and Fr&eacute;d&eacute;ric Mallet and Robert de Simone.
+        Charles André, Julien DeAntoni, <span class="moi">F. Mallet</span> and Robert de Simone.
         <span class="pubtitle">The Time Model of Logical Clocks Available in the OMG MARTE Profile.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/978-1-4419-6400-7_7"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">In Synthesis of Embedded Software: Frameworks and Methodologies for Correctness by Construction Software Design</span>, pp. 201-227, 2010, Springer Science + Business Media.
+        <a href="http://dx.doi.org/10.1007/978-1-4419-6400-7_7"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Synthesis of Embedded Software: Frameworks and Methodologies for Correctness by Construction Software Design</span>, pp. 201-227, Springer Science + Business Media, June 2010.
       </article>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute; and Robert de Simone.
-        <span class="pubtitle">{IP-Xact} components with Abstract Time Characterization.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/978-90-481-9304-2_1"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">LNEE</span>, Vol. 63, pp. 3-18, 2010, Springer.
+        <span class="moi">F. Mallet</span>, Charles André and Robert de Simone.
+        <span class="pubtitle">IP-Xact components with Abstract Time Characterization.</span>
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/978-90-481-9304-2_1"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Advances in Design Methods from Modeling Languages for Embedded Systems and SoCs</span>, LNEE, Vol. 63, pp. 3-18, Springer, July 2010.
       </article>
       </section>
       <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
@@ -63,38 +70,47 @@
       <section>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Fran\ccois Lagarde and Charles Andr&eacute; and S&eacute;bastien G&eacute;rard and Fran\ccois Terrier.
-        <span class="pubtitle">An Automated Process for Implementing Multilevel Domain
-Models.</span>
-        <a href="http://dx.doi.org/10.1007/978-3-642-12107-4_22"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">SLE</span>, pp. 314-333, 2009.
+        Charles André, <span class="moi">F. Mallet</span> and Julien DeAntoni.
+        <span class="pubtitle">VHDL Observers for Clock Constraint Checking.</span>
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/SIES.2010.5551372"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Symp. on Industrial Embedded
+Systems (SIES)</span>, pp. 98-107, IEEE, Jul. 2010.
       </article>
 
       <article>
-        Calin Glitia and Julien DeAntoni and Fr&eacute;d&eacute;ric Mallet.
+        Julien DeAntoni, <span class="moi">F. Mallet</span>, Frédéric Thomas, Gonzague Reydet, Jean-Philippe Babau, Chokri Mraidha, Ludovic Gauthier, Laurent Rioux and Nicolas Sordon.
+        <span class="pubtitle">RT-simex: retro-analysis of execution traces.</span>
+        <a href="http://dx.doi.org/http://doi.acm.org/10.1145/1882291.1882357"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">ACM SIGSOFT Int. Symp.
+on Foundations of Software Engineering (SIGSOFT FSE)</span>, pp. 377-378, ACM, Nov. 2010.
+      </article>
+
+      <article>
+        Calin Glitia, Julien DeAntoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Logical Time at Work: Capturing Data Dependencies and Platform
 Constraints.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1049/ic.2010.0159"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">FDL</span>, pp. 241-248, 2010.
+        <a href="http://dx.doi.org/http://dx.doi.org/10.1049/ic.2010.0159"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Forum on specification {&} Design
+Languages (FDL)</span>, pp. 241-248, ECSI, Electronic Chips & Systems design Initiative, Sep. 2010.
       </article>
 
       <article>
-        Julien DeAntoni and Fr&eacute;d&eacute;ric Mallet and Fr&eacute;d&eacute;ric Thomas and Gonzague Reydet and Jean-Philippe Babau and Chokri Mraidha and Ludovic Gauthier and Laurent Rioux and Nicolas Sordon.
-        <span class="pubtitle">RT-simex: retro-analysis of execution traces.</span>
-        <a href="http://dx.doi.org/http://doi.acm.org/10.1145/1882291.1882357"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">SIGSOFT FSE</span>, pp. 377-378, 2010.
+        <span class="moi">F. Mallet</span>, François Lagarde, Charles André, Sébastien Gérard and François Terrier.
+        <span class="pubtitle">An Automated Process for Implementing Multilevel Domain
+Models.</span>
+        <a href="http://dx.doi.org/10.1007/978-3-642-12107-4_22"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Conf. on Software Language Engineering (SLE)</span>, pp. 314-333, Springer, Oct. 2009.
       </article>
+      </section>
+      <h2 class="category">Other / <span class="francais">Autre</span></h2>
+
+      <section>
 
       <article>
-        Charles Andr&eacute; and Fr&eacute;d&eacute;ric Mallet and Julien DeAntoni.
-        <span class="pubtitle">VHDL Observers for Clock Constraint Checking.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/SIES.2010.5551372"  target="autre"><sup>DOI</sup></a>
-<br>
-      <span class="media">SIES</span>, pp. 98-107, 2010.
-      </article>
+        <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Tutorial on Time Modeling with MARTE.</span>
+        <a href="http://dx.doi.org/10.1049/ic.2010.0171"  target="autre"><sup>DOI</sup></a>      <span class="media">Forum on specification, verification & Design Languages (FDL'10)</span>, Sep. 2010.
+ <span class="invited">(invited)</span>      </article>
       </section>
     <!--#include file="footer.html"-->
     </div>

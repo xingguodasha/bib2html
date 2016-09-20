@@ -57,9 +57,8 @@
 }
 
 @Unpublished{MatiasEzequelVaraLarsen2014,
-  Title                    = {Framework for Heterogeneous Modeling and Composition},
-  Author                   = {Matias Ezequel Vara Larsen and Julien DeAntoni and FrÃ©dÃ©ric Mallet},
-  Note                     = {Conf. en IngÃ©nierie du Logiciel(CIEL'14), pp. 81-86},
+  Author                   = {Matias Ezequel Vara Larsen and Julien DeAntoni and Frédéric Mallet},
+  Note                     = {Conf. en Ingénierie du Logiciel(CIEL'14), pp. 81-86},
 
   Month                    = {6},
   Year                     = {2014},
