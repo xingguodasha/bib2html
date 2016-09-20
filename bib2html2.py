@@ -1,62 +1,45 @@
 import bibtexparser, sys
-from bibtexparser.bparser import BibTexParser
-from bibtexparser.customization import convert_to_unicode
-#from bibtexparser.customization import homogeneize_latex_encoding
 import Entry
-       
+
 def pages(e):
     if 'pages' in e:
         return e['pages'].replace('--', '-')
     else:
         print('no pages in', e['ID'])
-        return ''
+        return "xx-xx"
 
 def clean(s):
     return s.replace('{', '').replace('}', '')
 
-def print_title(e,f):
-    if 'url' not in e:
-        print('        <span class="pubtitle">' + clean(e['title']) + '.</span>', file=f)
-    else:
-        print('        <a target="new" class="pubtitle" href="' + e['url'] +'">' + clean(e['title']) + '.</a>', file=f)    
-
 def treat(a):
-    ''' treat author name'''
     if 'Mallet' in a:
         return '<span class="moi">F. Mallet</span>'
     coma = a.find(',')
-    if coma == -1:        
+    if coma == -1:
         return a
     surname = a[0:coma]
     firstname = a[coma+2:]
-    return firstname + ' ' + surname
+    return firstname + surname
 
-def make_author_list(l):
-    res = l[0]
-    if len(l)==1:
-        return res
-    
-    for i in range(1, len(l) - 1):
-        res = res + ', ' + l[i]
-        
-    return res + ' and ' + l[-1]
+def make_author_list(list):
+    sep = ''
+    res = ''
+    for author in list:
+        res += sep + author
+        sep = ' and '
+    return res
 
 def print_author(e,f):
     authors = e['author'].replace('\n', ' ')
-#    authors = authors.replace("\\'e", "&eacute;")
-#    authors = authors.replace("\\`e", "&egrave;")
-#    authors = authors.replace("\\^{\\i}", "&icirc;")    
+    authors = authors.replace("\\'e", "&eacute;")
+    authors = authors.replace("\\`e", "&egrave;")
+    authors = authors.replace("\\^{\\i}", "&icirc;")    
     authors = clean(authors)
 
     author_list = authors.split(' and ')
     author_clean = [ treat(a) for a in author_list]
     print('        ' + make_author_list(author_clean) + '.', file=f)
-
-def invited(e,f):
-    if 'comment' in e:
-        if 'invited' in e['comment']:
-            print(' <span class="invited">(invited)</span>', end='', file=f)
-
+    
 def print_doi(e,f): 
     if 'doi' in e:
         url = 'http://dx.doi.org/' + e['doi']
@@ -74,52 +57,31 @@ def print_doi(e,f):
         else:
             print('no doi ' + e['ID'])
             return
-    print('        <a href="' + url + '"  target="autre"><sup>' + t + '</sup></a>', end='', file=f)
+    print('        <a href="' + url + '"  target="autre"><sup>' + t + '</sup></a>', file=f)
 
-def print_publisher(entry,f):
-    p = entry.getPublisher()
-    if p is not None:
-        print(', ' + str(p), end='', file=f)
+def print_publisher(e,f):
+    if 'publisher' not in e:
+        publisher = ''
+    else:
+        publisher = ', ' + e['publisher']
+    print(publisher, end='', file=f)
 
-def print_booktitle(entry,f):
-    title = entry.getProcTitle()
-    if title is not None:
-        res = title
-    
-    e = entry.entry
-    
+def print_booktitle(e,f):
     if 'series' in e:
         if 'url' in e:
-            series = '<a target="new" href="' + e['url'] + '">' + e['series'] + '</a>'
+            print('      <a target="new" href="' + e['url'] + '">' + e['series'] + '</a>', end='', file=f)
         else:
-            series = '<span class="media">' + e['series'] + '</span>'
-
-        if title is not None:
-            res = res + ', ' + series
-        else:
-            res = series
-
-    if 'volume' in e:    
-        vol = 'Vol. ' + e['volume']
-        if res is None:
-            res = vol
-        else:
-            res += ', ' + vol
-
-    if series is None and title is None:
-        entry.missing('booktitle and series')
+            print('      <span class="media">' + e['series'] + '</span>', end='', file=f)
+        if 'volume' in e:    
+            print(', Vol. ' + e['volume'], end='', file=f)
     else:
-        print('      ' + res, end='', file=f)
+        print('No series in', e['ID'])
 
 def print_proctitle(entry,f):
     title = entry.getProcTitle()
     if title is None:
         entry.missing('booktitle')
     else:
-        title = title.replace('International', 'Int.')
-        title = title.replace('Conference', 'Conf.')
-        title = title.replace('Symposium', 'Symp.')
-        title = title.replace('Workshop', 'Work.')
         print('      <span class="media">' + title + '</span>', end='', file=f)
 
 def print_lncs(e,f):
@@ -140,32 +102,16 @@ def vol_num(e,f):
         num = '(' + e['number'] + ')'
     else:
         num = ''
-    print('        ' + e['volume'] + num + ':' + pages(e), end='', file=f)
+    print('        ' + e['volume'] + num + ':' + pages(e) + ', '+ e['year'], end='', file=f)
 
-def publisher_year(entry, f):
-    print_publisher(entry, f)
-
-    year = entry.getYear()
-    if year is None:
-        entry.missing('year')
-    else:    
-        print(', '+ year, end='', file=f)
-        
-    print('.', file=f)            
-    
-def print_journals(db, f):
-    journals = [b for b in db.entries if b['ENTRYTYPE']=='article']
-    
-    if len(journals) == 0:
+def print_journals(l, f):
+    if len(l) == 0:
         return
-    
     print('      <h2 class="category">Journal / <span class="francais">Revue</span></h2>', file=f)
     print('', file=f)
     print('      <section>', file=f)
     
-    for e in journals:
-        entry = Entry.Entry(db, e)
-        
+    for e in l:
         print('', file=f)
         print('      <article>', file=f)
         print_author(e, f)
@@ -174,42 +120,39 @@ def print_journals(db, f):
 
         vol_num(e,f)
 
-        publisher_year(entry,f)
-        
+        print_publisher(e, f)
+        print('.', file=f)            
         print_doi(e, f)
-        invited(e, f)
         
         print('      </article>', file=f)
 
     print('      </section>', file=f)
 
-def print_chapters(db, f):
-    chapters = [b for b in db.entries if b['ENTRYTYPE']=='inbook']
-
-    if len(chapters) == 0:
+def print_chapters(l, f):
+    if len(l) == 0:
         return
-    
     print('      <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>', file=f)
     print('', file=f)
     print('      <section>', file=f)
     
-    for e in chapters:
-        entry = Entry.Entry(db, e)
-        
+    for e in l:
         print('', file=f)
         print('      <article>', file=f)
         print_author(e, f)
-        print_title(e, f)
+        print('        <span class="pubtitle">' + e['title'] + '.</span>', file=f)
         print_doi(e, f)
-        invited(e, f)
-
         print('<br>', file=f)
 
-        print_booktitle(entry, f)
+        print_booktitle(e, f)
 
         print(', pp. ' + pages(e), end='', file=f)
+        if 'year' not in e:
+            print('Not year in', e['ID'])
+        else:
+            print(', '+ e['year'], end='', file=f)
 
-        publisher_year(entry, f)
+        print_publisher(e, f)
+        print('.', file=f)
         
         print('      </article>', file=f)
 
@@ -233,7 +176,6 @@ def print_proc(db, f):
         print_author(e, f)
         print_title(e, f)
         print_doi(e, f)
-        invited(e, f)
         print('<br>', file=f)
 
         print_proctitle(entry, f)
@@ -241,102 +183,31 @@ def print_proc(db, f):
         
         print(', pp. ' + pages(e), end='', file=f)
 
-        publisher_year(entry, f)
-        
-        print('      </article>', file=f)
+        year = entry.getYear()
+        if year is None:
+            entry.missing('year')
+        else:    
+            print(', '+ year, end='', file=f)
 
-    print('      </section>', file=f)
-
-MONTHS = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'Jun.', 'Jul.', 'Aug.', 'Sep.', 'Oct.', 'Nov.', 'Dec.']
-def month(e):
-    if 'month' not in e:
-        return ''
-    m = e['month']
-    if m.isdigit():
-        return MONTHS[int(m) - 1] + ' '
-    else:
-        return m + ' '
-
-def number(e):
-    if 'number' not in e:
-        print('Number not in', e['ID'])
-        return 'RR-????'
-    else:
-        num = e['number']
-        num = num.replace('{', '')
-        num = num.replace('}', '')
-        if 'ee' in e:
-            return '<a href="' + e['ee'] + '">' + num + '</a>'
-        return num;
-    
-def print_rr(db, f):
-    unp = [b for b in db.entries if b['ENTRYTYPE']=='unpublished']
-    rr = [b for b in db.entries if b['ENTRYTYPE']=='techreport']
-    
-    if len(unp) + len(rr) == 0:
-        return
-    
-    print('      <h2 class="category">Other / <span class="francais">Autre</span></h2>', file=f)
-    print('', file=f)
-    print('      <section>', file=f)
-    
-    for e in unp:       
-        print('', file=f)
-        print('      <article>', file=f)
-        print_author(e, f)
-        print_title(e,f)
-        print_doi(e, f)
-        print('      <span class="media">' + e['note'] + "</span>", end='', file = f)
-
-        if 'pages' in e:
-            print(', pp. ' + pages(e), end='', file=f)
-        if 'year' in e:
-            print(', '+ e['year'], end='', file=f)
-        else:
-            print('No year in', e['ID'])
-
-        print('.', file=f)
-        invited(e, f)
-        
-        print('      </article>', file=f)
-
-    for e in rr:
-        print('', file=f)
-        print('      <article>', file=f)
-        print_author(e, f)
-        print_title(e,f)
-        print('      ' + e['type'] + ', ' + number(e), end='', file = f)
-
-        if 'pages' in e:
-            print(', ' + pages(e) + ' pages', end='', file=f)
-        if 'institution' in e:
-            print(', ' + e['institution'], end='', file=f)
-        if 'year' in e:
-            print(', '+ month(e) + e['year'], end='', file=f)
-        else:
-            print('No year in', e['ID'])
-
+        print_publisher(e, f)
         print('.', file=f)
         
         print('      </article>', file=f)
 
     print('      </section>', file=f)
-    
+
 def bib(year):    
     bibfilename = 'mallet' + year + '.bib'
     year = '20' + year
 
     with open(bibfilename) as bibtex_file:
-        parser = BibTexParser()
-        #parser.customization = homogeneize_latex_encoding
-        parser.customization = convert_to_unicode
-        db = bibtexparser.load(bibtex_file, parser=parser)
+        db = bibtexparser.load(bibtex_file)
 
     with open('mallet' + year + '.shtml', 'w') as f:
         print('<!DOCTYPE HTML>', file=f)
         print('<html>', file=f)
         print('  <head>', file=f)
-        print('    <title>Fr&eacute;d&eacute;ric Mallet\'s publications (' + year + ')</title>', file=f)
+        print('    <title>Fr&eacute;d&eacute;ric Mallet\'s publications (2013)</title>', file=f)
         print('    <META http-equiv="Content-Style-Type" content="text/css">', file=f)
         print('    <META http-equiv="Content-Type" content="text/html;charset=utf-8">', file=f)
         print('    <LINK href="../' + str(int(year) - 1) + '/" rel="Prev">', file=f)
@@ -359,14 +230,15 @@ def bib(year):
         print('    <div class="content">', file=f)
         print('      <a href="' + bibfilename + '">BibTex</a>', file=f)
 
-        print_journals(db, f)
+        journals = [b for b in db.entries if b['ENTRYTYPE']=='article']
+        print_journals(journals, f)
 
-        print_chapters(db, f)
+        chapters = [b for b in db.entries if b['ENTRYTYPE']=='inbook']
+        print_chapters(chapters, f)
 
         print_proc(db, f)
-
-        print_rr(db, f)
         
+
         print('    <!--#include file="footer.html"-->', file=f)
         print('    </div>', file=f)
         print('  </body>', file=f)

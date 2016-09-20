@@ -3,15 +3,24 @@ class Entry:
         self.db = db
         self.entry = entry
 
+    def getPublisher(self):
+        if 'publisher' in self.entry:
+            return self.entry['publisher']
+        ref = self.getRef()
+        if ref is None:
+            return None
+        else:
+            return ref.getPublisher()
+        
     def getProcTitle(self):
         short = ''
         if 'booktitle' in self.entry:
-            short = ' (' + self.entry['booktitle'] + ')'
+            short = self.entry['booktitle']
         ref = self.getRef()
         if ref is None:
             return short
         else:
-            return ref.getTitle()
+            return ref.getTitle() + ' (' + short + ')'
 
     def getTitle(self):
         return self.entry.get('title', None)
