@@ -1,22 +1,42 @@
 class Entry:
-    def __init__(self, db, entry, f):
+    def __init__(self, db, entry):
         self.db = db
         self.entry = entry
-        self.f = f
 
-    def getYear():
+    def getProcTitle(self):
+        short = ''
+        if 'booktitle' in self.entry:
+            short = ' (' + self.entry['booktitle'] + ')'
+        ref = self.getRef()
+        if ref is None:
+            return short
+        else:
+            return ref.getTitle()
+
+    def getTitle(self):
+        return self.entry.get('title', None)
+        
+    def getYear(self):
         if 'year' in self.entry:
             return self.entry['year']
-        if getRef() is not None:
-            return getRef().getYear()
-        return None
+        ref = self.getRef()
+        if ref is not None:
+            return ref.getYear()
+        else:
+            return None
 
-    def getRef():
+    def getRef(self):
         if 'crossref' not in self.entry:
             return None
-        res = self.db.entries[e['crossref']]
-        print(res)
-        return None
+        ref = self.entry['crossref']
+        filtre = [b for b in self.db.entries if b['ID']==ref]
+        if len(filtre)==0:
+            return None
+        if len(filtre)>1:
+            print('Multi entries for', ref)
+        return Entry(self.db, filtre[0])
         
             
-        
+    def missing(self, par):
+        print('No', par, 'in', self.entry['ID'])
+
