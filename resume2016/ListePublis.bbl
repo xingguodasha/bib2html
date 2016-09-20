@@ -1,0 +1,4481 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{ynt/global/}
+  \entry{Mallet1998a}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bo\'eri},
+         family_i={B\bibinitperiod},
+         given={Fernand},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DJF}{%
+         family={Duboc},
+         family_i={D\bibinitperiod},
+         given={Jean-Francois},
+         given_i={J\bibinitperiod-F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Press}%
+    }
+    \strng{namehash}{MFBFDJF1}
+    \strng{fullhash}{MFBFDJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MBD98}
+    \field{extraalpha}{1}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{booktitle}{Euromicro Conference}
+    \verb{doi}
+    \verb 10.1109/EURMIC.1998.711789
+    \endverb
+    \field{pages}{147\bibrangedash 153}
+    \field{title}{Hardware Architecture Modelling using an Object-oriented
+  method}
+    \field{volume}{I}
+    \list{location}{1}{%
+      {Vasteras, Sweden}%
+    }
+    \field{month}{08}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Mallet1998}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bo\'eri},
+         family_i={B\bibinitperiod},
+         given={Fernand},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DJF}{%
+         family={Duboc},
+         family_i={D\bibinitperiod},
+         given={Jean-Francois},
+         given_i={J\bibinitperiod-F\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {SCS}%
+    }
+    \strng{namehash}{MFBFDJF1}
+    \strng{fullhash}{MFBFDJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MBD98}
+    \field{extraalpha}{2}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{booktitle}{European Simulation Multiconference (ESM'98)}
+    \field{pages}{166\bibrangedash 168}
+    \field{title}{Hardware Modelling and Simulation using an Object-oriented
+  method}
+    \field{month}{06}
+    \field{year}{1998}
+  \endentry
+
+  \entry{ANDRE:2006:INRIA-00124874:1}{report}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={{A}ndr{\'e}},
+         family_i={A\bibinitperiod},
+         given={{C}harles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={{M}allet},
+         family_i={M\bibinitperiod},
+         given={{F}r{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=PFMA}{%
+         prefix={{P}eraldi},
+         prefix_i={P\bibinitperiod},
+         family={{F}rati},
+         family_i={F\bibinitperiod},
+         given={{M}arie-{A}gn{\`e}s},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACMFFMAP1}
+    \strng{fullhash}{ACMFFMAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AMF06}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{{RR}-5913}
+    \field{pages}{18}
+    \field{title}{{N}on-functional property analysis using {UML}2.0 and model
+  transformations}
+    \verb{url}
+    \verb http://hal.inria.fr/inria-00124874/en/
+    \endverb
+    \list{institution}{1}{%
+      {INRIA}%
+    }
+    \field{type}{Research Report}
+    \field{year}{2006}
+  \endentry
+
+  \entry{MARTES2006}{unpublished}{}
+    \name{author}{6}{}{%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Cuccuru},
+         family_i={C\bibinitperiod},
+         given={Arnaud},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=dR}{%
+         family={{de Simone}},
+         family_i={d\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Gautier},
+         family_i={G\bibinitperiod},
+         given={Thiery},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=TJP}{%
+         family={Talpin},
+         family_i={T\bibinitperiod},
+         given={Jean-Pierre},
+         given_i={J\bibinitperiod-P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Oslo}%
+    }
+    \strng{namehash}{AC+1}
+    \strng{fullhash}{ACCAdRGTMFTJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{And+06}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{MARTES 2006}
+    \field{note}{343}
+    \field{pages}{27\bibrangedash 40}
+    \field{title}{Modeling with logical time in {UML} for real-time embedded
+  system design}
+    \list{location}{1}{%
+      {Genoa, Italy}%
+    }
+    \field{month}{10}
+    \field{year}{2006}
+  \endentry
+
+  \entry{MPA:IES2006}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=PFMA}{%
+         family={Peraldi-Frati},
+         family_i={P\bibinitperiod-F\bibinitperiod},
+         given={Marie-Agn{\`e}s},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{MFACPFMA1}
+    \strng{fullhash}{MFACPFMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MAPF06}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{International Symposium on Industrial Embedded Systems
+  ({IES} '06)}
+    \verb{doi}
+    \verb 10.1109/IES.2006.357475
+    \endverb
+    \field{pages}{1\bibrangedash 9}
+    \field{title}{From {UML} to Petri Nets for non functional Property
+  Verification}
+    \list{location}{1}{%
+      {Antibes Juan-Les-Pins}%
+    }
+    \field{month}{10}
+    \field{year}{2006}
+  \endentry
+
+  \entry{AMP:SIES2007}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=PFMA}{%
+         family={Peraldi-Frati},
+         family_i={P\bibinitperiod-F\bibinitperiod},
+         given={Marie-Agn{\`e}s},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{ACMFPFMA1}
+    \strng{fullhash}{ACMFPFMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AMPF07}
+    \field{extraalpha}{1}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{IEEE Second International Symposium on Industrial
+  Embedded Systems (SIES'07)}
+    \verb{doi}
+    \verb 10.1109/SIES.2007.4297340
+    \endverb
+    \field{pages}{234\bibrangedash 241}
+    \field{title}{A multiform time approach to real-time system modeling;
+  Application to an automotive system}
+    \field{month}{07}
+    \field{year}{2007}
+  \endentry
+
+  \entry{AMP:RTCSA2007}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=PFMA}{%
+         family={Peraldi-Frati},
+         family_i={P\bibinitperiod-F\bibinitperiod},
+         given={Marie-Agn{\`e}s},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \keyw{Unified Modeling Language, embedded systems}
+    \strng{namehash}{ACMFPFMA1}
+    \strng{fullhash}{ACMFPFMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AMPF07}
+    \field{extraalpha}{2}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{13th IEEE International Conference on Embedded and
+  Real-Time Computing Systems and Applications (RTCSA'07)}
+    \verb{doi}
+    \verb 10.1109/RTCSA.2007.51
+    \endverb
+    \field{issn}{1533-2306}
+    \field{pages}{232\bibrangedash 240}
+    \field{title}{Multiform Time in {UML} for Real-time Embedded Applications}
+    \field{month}{08}
+    \field{year}{2007}
+  \endentry
+
+  \entry{AMS:MoDELS2007}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ACMFSRd1}
+    \strng{fullhash}{ACMFSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AMS07}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Model Driven Engineering Languages and Systems}
+    \verb{doi}
+    \verb 10.1007/978-3-540-75209-7_38
+    \endverb
+    \field{pages}{559\bibrangedash 573}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{Modeling Time(s)}
+    \field{volume}{4735}
+    \field{year}{2007}
+  \endentry
+
+  \entry{fdl07a}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ECSI}%
+    }
+    \strng{namehash}{MFACSRd1}
+    \strng{fullhash}{MFACSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MAS07}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Forum on specification and Design Languages (FDL'07)}
+    \field{pages}{249\bibrangedash 254}
+    \field{title}{Modeling of immediate vs. delayed data communications: from
+  {AADL} to {UML} {M}arte}
+    \field{month}{09}
+    \field{year}{2007}
+  \endentry
+
+  \entry{fdl07b}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ECSI}%
+    }
+    \strng{namehash}{SRdACMF1}
+    \strng{fullhash}{SRdACMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SAM07}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Forum on specification and Design Languages (FDL'07)}
+    \field{pages}{268\bibrangedash 273}
+    \field{title}{Time Modeling in {MARTE}}
+    \field{month}{09}
+    \field{year}{2007}
+  \endentry
+
+  \entry{2008:safa}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Ferrero},
+         family_i={F\bibinitperiod},
+         given={Beno\"it},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACFBMF1}
+    \strng{fullhash}{ACFBMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AFM08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Sophia Antipolis and Formal Analysis Workshop}
+    \field{title}{TimeSquare: a Multiform Time Simulation Environment}
+    \field{month}{12}
+    \field{year}{2008}
+  \endentry
+
+  \entry{2008:RR-6540}{report}{}
+    \name{author}{2}{}{%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACMF1}
+    \strng{fullhash}{ACMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AM08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{6540}
+    \field{title}{Clock Constraints in {UML} {MARTE} {CCSL}}
+    \verb{url}
+    \verb https://hal.inria.fr/inria-00280941
+    \endverb
+    \list{institution}{1}{%
+      {INRIA}%
+    }
+    \field{type}{Research Report}
+    \field{month}{05}
+    \field{year}{2008}
+  \endentry
+
+  \entry{lnee:andre08}{inbook}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=VE}{%
+         family={Villar},
+         family_i={V\bibinitperiod},
+         given={Eugenio},
+         given_i={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ACMFSRd2}
+    \strng{fullhash}{ACMFSRd2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AMS08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Embedded Systems Specification and Design Languages}
+    \field{chapter}{11}
+    \field{pages}{150\bibrangedash 170}
+    \field{series}{LNEE}
+    \field{title}{Modeling of {AADL} data-communications with {UML} {M}arte}
+    \field{volume}{10}
+    \field{month}{05}
+    \field{year}{2008}
+  \endentry
+
+  \entry{2008:date}{misc}{}
+    \name{author}{4}{}{%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=KAM}{%
+         family={Khan},
+         family_i={K\bibinitperiod},
+         given={Aamir\bibnamedelima Mehmood},
+         given_i={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AC+2}
+    \strng{fullhash}{ACMFKAMSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{And+08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Conf. on Design, Automation and Test in Europe (DATE),
+  {MARTE Workshop}}
+    \field{pages}{35\bibrangedash 40}
+    \field{title}{Modeling {S}pirit {IP-XACT} in {UML} {M}arte}
+    \list{location}{1}{%
+      {Munich, Germany}%
+    }
+    \field{month}{03}
+    \field{year}{2008}
+  \endentry
+
+  \entry{electronique08}{periodical}{}
+    \name{author}{3}{}{%
+      {{hash=DS}{%
+         family={Demathieu},
+         family_i={D\bibinitperiod},
+         given={S\'ebastien},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={G\'erard},
+         family_i={G\bibinitperiod},
+         given={S\'ebastien},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSGSMF1}
+    \strng{fullhash}{DSGSMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{DGM08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{189}
+    \field{pages}{2\bibrangedash 6}
+    \field{title}{Marte, le nouveau standard {UML} pour les syst\`emes temps
+  r\'eel embarqu\'es}
+    \field{journaltitle}{Electronique}
+    \field{month}{03}
+    \field{year}{2008}
+  \endentry
+
+  \entry{2008:RR-6599}{report}{}
+    \name{author}{5}{}{%
+      {{hash=LF}{%
+         family={{L}agarde},
+         family_i={L\bibinitperiod},
+         given={{F}ran{\c{c}}ois},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={{M}allet},
+         family_i={M\bibinitperiod},
+         given={{F}r{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={{A}ndr{\'e}},
+         family_i={A\bibinitperiod},
+         given={{C}harles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={{G}{\'e}rard},
+         family_i={G\bibinitperiod},
+         given={{S}{\'e}bastien},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=TF}{%
+         family={{T}errier},
+         family_i={T\bibinitperiod},
+         given={{F}ran{\c{c}}ois},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LF+1}
+    \strng{fullhash}{LFMFACGSTF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{L}ag+08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{6599}
+    \field{pages}{17}
+    \field{title}{{A}n {A}utomated {P}rocess for {D}esigning {UML} {Profiles}}
+    \verb{url}
+    \verb http://hal.inria.fr/inria-00308386/en/
+    \endverb
+    \list{institution}{1}{%
+      {INRIA}%
+    }
+    \field{type}{Research Report}
+    \field{month}{07}
+    \field{year}{2008}
+  \endentry
+
+  \entry{iceccs08}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=LSY}{%
+         family={{L}ee},
+         family_i={L\bibinitperiod},
+         given={{S}u-{Y}oung},
+         given_i={S\bibinitperiod-Y\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={{M}allet},
+         family_i={M\bibinitperiod},
+         given={{F}r{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DSR}{%
+         prefix={{D}e},
+         prefix_i={D\bibinitperiod},
+         family={{S}imone},
+         family_i={S\bibinitperiod},
+         given={{R}obert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{namehash}{LSYMFSRD1}
+    \strng{fullhash}{LSYMFSRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{LMS08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{13th International Conference on Engineering of Complex
+  Computer Systems (ICECCS'08)}
+    \verb{doi}
+    \verb 10.1109/ICECCS.2008.14
+    \endverb
+    \field{pages}{228\bibrangedash 233}
+    \field{title}{{D}ealing with {AADL} {E}nd-to-end {F}low {L}atency with
+  {UML} {MARTE}}
+    \list{location}{1}{%
+      {Belfast, UK}%
+    }
+    \field{month}{04}
+    \field{year}{2008}
+  \endentry
+
+  \entry{2008:RR-6545}{report}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFAC1}
+    \strng{fullhash}{MFAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MA08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{6545}
+    \field{title}{{UML}/{MARTE} {CCSL}, Signal and Petri nets}
+    \verb{url}
+    \verb https://hal.inria.fr/inria-00283077
+    \endverb
+    \list{institution}{1}{%
+      {INRIA}%
+    }
+    \field{type}{Research Report}
+    \field{month}{05}
+    \field{year}{2008}
+  \endentry
+
+  \entry{ISSE08}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFACSRd2}
+    \strng{fullhash}{MFACSRd2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MAS08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1007/s11334-008-0055-2
+    \endverb
+    \field{number}{3}
+    \field{pages}{309\bibrangedash 314}
+    \field{title}{{CCSL}: specifying clock constraints with {UML/Marte}}
+    \field{volume}{4}
+    \field{journaltitle}{Innovations in Systems and Software Engineering}
+    \field{year}{2008}
+  \endentry
+
+  \entry{2008:RR-6781}{report}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=PMA}{%
+         family={{Peraldi-Frati}},
+         family_i={P\bibinitperiod},
+         given={Marie-Agn{\`e}s},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andrï¿½},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFPMAAC1}
+    \strng{fullhash}{MFPMAAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MPA08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{6781}
+    \field{title}{Marte {CCSL} and {East-ADL2} Timing Requirements}
+    \verb{url}
+    \verb http://hal.inria.fr/inria-00348134/en/
+    \endverb
+    \list{institution}{1}{%
+      {INRIA}%
+    }
+    \field{type}{Research Report}
+    \field{month}{12}
+    \field{year}{2008}
+  \endentry
+
+  \entry{fdl08}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rioux},
+         family_i={R\bibinitperiod},
+         given={Laurent},
+         given_i={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFSRdRL1}
+    \strng{fullhash}{MFSRdRL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MSR08}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Forum on Specification, Verification and Design Languages
+  (FDL'08)}
+    \verb{doi}
+    \verb 10.1109/FDL.2008.4641438
+    \endverb
+    \field{pages}{154\bibrangedash 159}
+    \field{title}{Event-triggered vs. time-triggered communications with {UML}
+  {M}arte}
+    \field{month}{09}
+    \field{year}{2008}
+  \endentry
+
+  \entry{DBLP:conf/isorc/2009}{proceedings}{}
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Dbl}
+    \field{extraalpha}{1}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ISORC}
+    \field{title}{12th IEEE Int. Symp. on Object-Oriented Real-Time Distributed
+  Computing (ISORC 2009)}
+    \list{location}{1}{%
+      {Tokyo, Japan}%
+    }
+    \field{month}{03}
+    \field{year}{2009}
+  \endentry
+
+  \entry{DBLP:conf/iceccs/2009}{proceedings}{}
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Dbl}
+    \field{extraalpha}{2}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICECCS}
+    \field{title}{14th Int. Conf. on Engineering of Complex Computer Systems
+  (ICECCS'09) - UML \& AADL}
+    \list{location}{1}{%
+      {Potsdam, Germany}%
+    }
+    \field{month}{06}
+    \field{year}{2009}
+  \endentry
+
+  \entry{2009:INRIA-00360528:2}{report}{}
+    \name{author}{2}{}{%
+      {{hash=AC}{%
+         family={{A}ndr{\'e}},
+         family_i={A\bibinitperiod},
+         given={{C}harles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={{M}allet},
+         family_i={M\bibinitperiod},
+         given={{F}r{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACMF5}
+    \strng{fullhash}{ACMF5}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AM09}
+    \field{extraalpha}{1}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{published in the proceedings of {LCTES}'09}
+    \field{number}{6839}
+    \field{title}{{C}ombining {CCSL} and {E}sterel to specify and verify time
+  requirements}
+    \verb{url}
+    \verb http://hal.inria.fr/inria-00360528/en/
+    \endverb
+    \list{institution}{1}{%
+      {INRIA}%
+    }
+    \field{type}{Research Report}
+    \field{month}{02}
+    \field{year}{2009}
+  \endentry
+
+  \entry{jesa09}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Hermes/Lavoisier}%
+    }
+    \strng{namehash}{ACMF2}
+    \strng{fullhash}{ACMF2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AM09}
+    \field{extraalpha}{2}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{43}
+    \field{pages}{725\bibrangedash 739}
+    \field{title}{Mod{\`e}le de contraintes temporelles pour syst{\`e}mes
+  polychrones}
+    \field{volume}{7--9}
+    \field{journaltitle}{Journal Europ{\'e}ens des Syst{\`e}mes
+  Automatis{\'e}s}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Neptune09}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACMF3}
+    \strng{fullhash}{ACMF3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AM09}
+    \field{extraalpha}{3}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{89}
+    \field{pages}{44\bibrangedash 49}
+    \field{title}{Mod\`eles de temps de {MARTE} et {CCSL}}
+    \field{journaltitle}{G\'enie Logiciel}
+    \field{year}{2009}
+  \endentry
+
+  \entry{lctes09}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=KCM}{%
+         family={Kirsch},
+         family_i={K\bibinitperiod},
+         given={Christoph\bibnamedelima M.},
+         given_i={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KMT}{%
+         family={Kandemir},
+         family_i={K\bibinitperiod},
+         given={Mahmut\bibnamedelima T.},
+         given_i={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{crossref}{DBLP:conf/lctes/2009}
+    \strng{namehash}{ACMF4}
+    \strng{fullhash}{ACMF4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AM09}
+    \field{extraalpha}{4}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{LCTES}
+    \field{isbn}{978-1-60558-356-3}
+    \field{pages}{167\bibrangedash 176}
+    \field{title}{Specification and Verification of Time Requirements with
+  {CCSL} and Esterel}
+    \list{location}{1}{%
+      {Dublin, Ireland}%
+    }
+    \field{month}{06}
+    \field{year}{2009}
+  \endentry
+
+  \entry{mde4dres}{unpublished}{}
+    \name{author}{3}{}{%
+      {{hash=DJ}{%
+         family={Deantoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {WIP of the 4th Int. School on Model-Driven Development for Distributed,
+  Realtime, Embedded Systems}%
+    }
+    \strng{namehash}{DJMFAC1}
+    \strng{fullhash}{DJMFAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{DMA09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{available at
+  http://www.mdd4dres.info/\_media/mdd4dreswip09\_submission\_10.pdf?id=wip&cache=cache}
+    \field{title}{On the Formal Execution of UML and DSL models}
+    \field{month}{04}
+    \field{year}{2009}
+  \endentry
+
+  \entry{T2_at_mde4dres}{unpublished}{}
+    \name{author}{4}{}{%
+      {{hash=DJ}{%
+         family={Deantoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Ferrero},
+         family_i={F\bibinitperiod},
+         given={Beno\"it},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Tool session of the 4th Int. School on Model-Driven Development for
+  Distributed, Realtime, Embedded Systems}%
+    }
+    \strng{namehash}{DJ+1}
+    \strng{fullhash}{DJMFACFB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Dea+09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{available at
+  http://www.mdd4dres.info/\_tools/1f3d0539532e6396ad1ecadc4d363a9a}
+    \field{title}{TimeSquare, on the Formal Execution of UML and DSL models}
+    \field{month}{04}
+    \field{year}{2009}
+  \endentry
+
+  \entry{DATE09-UBooth}{unpublished}{}
+    \name{author}{4}{}{%
+      {{hash=FB}{%
+         family={Ferrero},
+         family_i={F\bibinitperiod},
+         given={Beno\"it},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Design, Automation \& Test in Europe, U-Booth session}%
+    }
+    \strng{namehash}{FB+1}
+    \strng{fullhash}{FBACMFSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fer+09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{available at
+  http://www-sop.inria.fr/oasis/SAFA/Abstracts_SAFA2009.html}
+    \field{title}{{TimeSquare}: a software environment for timed systems}
+    \field{month}{04}
+    \field{year}{2009}
+  \endentry
+
+  \entry{DBLP:conf/lctes/2009}{proceedings}{}
+    \name{editor}{2}{}{%
+      {{hash=KCM}{%
+         family={Kirsch},
+         family_i={K\bibinitperiod},
+         given={Christoph\bibnamedelima M.},
+         given_i={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KMT}{%
+         family={Kandemir},
+         family_i={K\bibinitperiod},
+         given={Mahmut\bibnamedelima T.},
+         given_i={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{KCMKMT1}
+    \strng{fullhash}{KCMKMT1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{KK09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{LCTES}
+    \field{isbn}{978-1-60558-356-3}
+    \field{title}{ACM SIGPLAN/SIGBED conference on Languages, compilers, and
+  tools for embedded systems, LCTES 2009}
+    \list{location}{1}{%
+      {Dublin, Ireland}%
+    }
+    \field{month}{06}
+    \field{year}{2009}
+  \endentry
+
+  \entry{same_keynote09}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Sophia Antipolis MicroElectronics Forum}%
+    }
+    \strng{namehash}{MF1}
+    \strng{fullhash}{MF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mal09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Keynote speaker}
+    \field{title}{{MARTE: The OMG UML2} Profile for Modeling and Analysis of
+  Real-Time and Embedded systems}
+    \list{location}{1}{%
+      {Sophia Antipolis}%
+    }
+    \field{month}{09}
+    \field{year}{2009}
+  \endentry
+
+  \entry{isorc09b}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{crossref}{DBLP:conf/isorc/2009}
+    \strng{namehash}{MFAC2}
+    \strng{fullhash}{MFAC2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MA09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ISORC}
+    \verb{doi}
+    \verb 10.1109/ISORC.2009.27
+    \endverb
+    \field{pages}{305\bibrangedash 312}
+    \field{title}{On the Semantics of {UML}/Marte Clock Constraints}
+    \list{location}{1}{%
+      {Tokyo, Japan}%
+    }
+    \field{month}{03}
+    \field{year}{2009}
+  \endentry
+
+  \entry{iceccs09}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={{M}allet},
+         family_i={M\bibinitperiod},
+         given={{F}r{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={{A}ndr{\'e}},
+         family_i={A\bibinitperiod},
+         given={{C}harles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={{D}e{A}ntoni},
+         family_i={D\bibinitperiod},
+         given={{J}ulien},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{crossref}{DBLP:conf/iceccs/2009}
+    \strng{namehash}{MFACDJ1}
+    \strng{fullhash}{MFACDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MAD09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICECCS}
+    \verb{doi}
+    \verb 10.1109/ICECCS.2009.10
+    \endverb
+    \field{pages}{371\bibrangedash 376}
+    \field{title}{Executing {AADL} Models with {UML}/Marte}
+    \list{location}{1}{%
+      {Potsdam, Germany}%
+    }
+    \field{month}{06}
+    \field{year}{2009}
+  \endentry
+
+  \entry{isorc09a}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=PMA}{%
+         family={{Peraldi-Frati}},
+         family_i={P\bibinitperiod},
+         given={Marie-Agn{\è}s},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{crossref}{DBLP:conf/isorc/2009}
+    \strng{namehash}{MFPMAAC2}
+    \strng{fullhash}{MFPMAAC2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MPA09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ISORC}
+    \verb{doi}
+    \verb 10.1109/ISORC.2009.18
+    \endverb
+    \field{pages}{249\bibrangedash 253}
+    \field{title}{Marte {CCSL} to execute {East-ADL} Timing Requirements}
+    \list{location}{1}{%
+      {Tokyo, Japan}%
+    }
+    \field{month}{03}
+    \field{year}{2009}
+  \endentry
+
+  \entry{lnee:mallet09}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=RM}{%
+         family={Radetzki},
+         family_i={R\bibinitperiod},
+         given={Martin},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{crossref}{lnee:fdl08}
+    \strng{namehash}{MFSRd1}
+    \strng{fullhash}{MFSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MS09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Languages for Embedded Systems and their Applications}
+    \field{chapter}{2}
+    \verb{doi}
+    \verb 10.1007/978-1-4020-9714-0_2
+    \endverb
+    \field{isbn}{978-1-4020-9713-3}
+    \field{pages}{27\bibrangedash 41}
+    \field{series}{LNEE}
+    \field{title}{{M}ARTE vs. {AADL} for Discrete-Event and Discrete-Time
+  Domains}
+    \field{volume}{36}
+    \field{month}{04}
+    \field{year}{2009}
+  \endentry
+
+  \entry{MalletLAGT09}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Lagarde},
+         family_i={L\bibinitperiod},
+         given={Fran\c{c}ois},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={G{\'e}rard},
+         family_i={G\bibinitperiod},
+         given={S{\'e}bastien},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=TF}{%
+         family={Terrier},
+         family_i={T\bibinitperiod},
+         given={Fran\c{c}ois},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=vdBM}{%
+         prefix={van\bibnamedelima den},
+         prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Brand},
+         family_i={B\bibinitperiod},
+         given={Mark},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Gasevic},
+         family_i={G\bibinitperiod},
+         given={Dragan},
+         given_i={D\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gray},
+         family_i={G\bibinitperiod},
+         given={Jeff},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{crossref}{DBLP:conf/sle/2009}
+    \strng{namehash}{MF+2}
+    \strng{fullhash}{MFLFACGSTF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mal+09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{SLE}
+    \field{isbn}{978-3-642-12106-7}
+    \field{pages}{314\bibrangedash 333}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{An Automated Process for Implementing Multilevel Domain
+  Models}
+    \field{volume}{5969}
+    \field{year}{2009}
+  \endentry
+
+  \entry{fdl09}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=MA}{%
+         family={{Mehmood Khan}},
+         family_i={M\bibinitperiod},
+         given={Aamir},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MA+1}
+    \strng{fullhash}{MAMFACSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Meh}+09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Forum on specification, verification and design
+  languages, FDL 2009}
+    \field{pages}{xx\bibrangedash xx}
+    \field{title}{IP-XACT components with abstract time characterization}
+    \list{location}{1}{%
+      {Sophia-Antipolis, F}%
+    }
+    \field{month}{09}
+    \field{year}{2009}
+  \endentry
+
+  \entry{lnee:fdl08}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=RM}{%
+         family={Radetzki},
+         family_i={R\bibinitperiod},
+         given={Martin},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{RM1}
+    \strng{fullhash}{RM1}
+    \field{labelnamesource}{editor}
+    \field{labelalpha}{Rad09}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Languages for Embedded Systems and their Applications}
+    \field{isbn}{978-1-4020-9713-3}
+    \field{series}{LNEE}
+    \field{volume}{36}
+    \field{month}{04}
+    \field{year}{2009}
+  \endentry
+
+  \entry{DBLP:conf/sies/AndreMD10}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{crossref}{DBLP:conf/sies/2010}
+    \strng{namehash}{ACMFDJ1}
+    \strng{fullhash}{ACMFDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AMD10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{SIES}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1109/SIES.2010.5551372
+    \endverb
+    \field{isbn}{978-1-4244-5840-0}
+    \field{pages}{98\bibrangedash 107}
+    \field{title}{VHDL Observers for Clock Constraint Checking}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Shukla2010}{inbook}{}
+    \name{author}{4}{}{%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=SSK}{%
+         family={Shukla},
+         family_i={S\bibinitperiod},
+         given={Sandeep\bibnamedelima K},
+         given_i={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Talpin},
+         family_i={T\bibinitperiod},
+         given={{Jean-Pierre}},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science + Business Media}%
+    }
+    \strng{namehash}{AC+2}
+    \strng{fullhash}{ACDJMFSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{And+10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{chapter}{7}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1007/978-1-4419-6400-7_7
+    \endverb
+    \field{pages}{201\bibrangedash 227}
+    \field{series}{In Synthesis of Embedded Software: Frameworks and
+  Methodologies for Correctness by Construction Software Design}
+    \field{title}{The Time Model of Logical Clocks Available in the OMG MARTE
+  Profile}
+    \field{month}{06}
+    \field{year}{2010}
+  \endentry
+
+  \entry{DBLP:conf/sle/2009}{proceedings}{}
+    \name{editor}{3}{}{%
+      {{hash=vdBM}{%
+         prefix={van\bibnamedelima den},
+         prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Brand},
+         family_i={B\bibinitperiod},
+         given={Mark},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Gasevic},
+         family_i={G\bibinitperiod},
+         given={Dragan},
+         given_i={D\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gray},
+         family_i={G\bibinitperiod},
+         given={Jeff},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BMvdGDGJ1}
+    \strng{fullhash}{BMvdGDGJ1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BGG10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{SLE}
+    \field{isbn}{978-3-642-12106-7}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{Software Language Engineering, Second International
+  Conference, SLE 2009, Denver, CO, USA, October 5-6, 2009, Revised Selected
+  Papers}
+    \field{volume}{5969}
+    \field{year}{2010}
+  \endentry
+
+  \entry{DBLP:conf/sigsoft/DeAntoniMTRBMGRS10}{inproceedings}{}
+    \name{author}{9}{}{%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=TF}{%
+         family={Thomas},
+         family_i={T\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Reydet},
+         family_i={R\bibinitperiod},
+         given={Gonzague},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=BJP}{%
+         family={Babau},
+         family_i={B\bibinitperiod},
+         given={Jean-Philippe},
+         given_i={J\bibinitperiod-P\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mraidha},
+         family_i={M\bibinitperiod},
+         given={Chokri},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=GL}{%
+         family={Gauthier},
+         family_i={G\bibinitperiod},
+         given={Ludovic},
+         given_i={L\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rioux},
+         family_i={R\bibinitperiod},
+         given={Laurent},
+         given_i={L\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Sordon},
+         family_i={S\bibinitperiod},
+         given={Nicolas},
+         given_i={N\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=RGC}{%
+         family={Roman},
+         family_i={R\bibinitperiod},
+         given={Gruia-Catalin},
+         given_i={G\bibinitperiod-C\bibinitperiod},
+      }}%
+      {{hash=SKJ}{%
+         family={Sullivan},
+         family_i={S\bibinitperiod},
+         given={Kevin\bibnamedelima J.},
+         given_i={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{crossref}{DBLP:conf/sigsoft/2010}
+    \strng{namehash}{DJ+2}
+    \strng{fullhash}{DJMFTFRGBJPMCGLRLSN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{DeA+10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{SIGSOFT FSE}
+    \verb{doi}
+    \verb http://doi.acm.org/10.1145/1882291.1882357
+    \endverb
+    \field{isbn}{978-1-60558-791-2}
+    \field{pages}{377\bibrangedash 378}
+    \field{title}{RT-simex: retro-analysis of execution traces}
+    \field{year}{2010}
+  \endentry
+
+  \entry{DBLP:conf/fdl/GlitiaDM10}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GC}{%
+         family={Glitia},
+         family_i={G\bibinitperiod},
+         given={Calin},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=MA}{%
+         family={Morawiec},
+         family_i={M\bibinitperiod},
+         given={Adam},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hinderscheit},
+         family_i={H\bibinitperiod},
+         given={Jinnie},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ECSI, Electronic Chips {\&} Systems design Initiative}%
+    }
+    \strng{crossref}{DBLP:conf/fdl/2010}
+    \strng{namehash}{GCDJMF1}
+    \strng{fullhash}{GCDJMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GDM10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{FDL}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1049/ic.2010.0159
+    \endverb
+    \field{pages}{241\bibrangedash 248}
+    \field{title}{Logical Time at Work: Capturing Data Dependencies and
+  Platform Constraints}
+    \field{year}{2010}
+  \endentry
+
+  \entry{DBLP:conf/sies/2010}{proceedings}{}
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Dbl}
+    \field{extraalpha}{5}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{SIES}
+    \field{isbn}{978-1-4244-5840-0}
+    \field{title}{IEEE Fifth International Symposium on Industrial Embedded
+  Systems - SIES 2010, University of Trento, Italy, July 7-9, 2010}
+    \field{year}{2010}
+  \endentry
+
+  \entry{TSI10}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Lagarde},
+         family_i={L\bibinitperiod},
+         given={Fran\c{c}ois},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFACLF1}
+    \strng{fullhash}{MFACLF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MAL10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{4--5}
+    \field{pages}{391\bibrangedash 419}
+    \field{title}{Un processus automatique pour concevoir les profils {UML}}
+    \field{volume}{29}
+    \field{journaltitle}{Technique et Sciences Informatiques}
+    \field{month}{05}
+    \field{year}{2010}
+  \endentry
+
+  \entry{FdlSpringer2010}{inbook}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=BD}{%
+         family={Borrione},
+         family_i={B\bibinitperiod},
+         given={Dominique},
+         given_i={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{MFACSRd2}
+    \strng{fullhash}{MFACSRd2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MAS10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Advances in Design Methods from Modeling Languages for
+  Embedded Systems and SoCs}
+    \field{chapter}{1}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1007/978-90-481-9304-2_1
+    \endverb
+    \field{pages}{3\bibrangedash 18}
+    \field{series}{LNEE}
+    \field{title}{{IP-Xact} components with Abstract Time Characterization}
+    \field{volume}{63}
+    \field{month}{07}
+    \field{year}{2010}
+  \endentry
+
+  \entry{ISSE10}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr\'e},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MF+1}
+    \strng{fullhash}{MFDJACSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mal+10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{1--2}
+    \field{pages}{99\bibrangedash 106}
+    \field{title}{The clock constraint specification language for building
+  timed causality models}
+    \field{volume}{6}
+    \field{journaltitle}{Innovations in Systems and Software Engineering}
+    \field{year}{2010}
+  \endentry
+
+  \entry{DBLP:conf/fdl/2010}{proceedings}{}
+    \name{editor}{2}{}{%
+      {{hash=MA}{%
+         family={Morawiec},
+         family_i={M\bibinitperiod},
+         given={Adam},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hinderscheit},
+         family_i={H\bibinitperiod},
+         given={Jinnie},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ECSI, Electronic Chips {\&} Systems design Initiative}%
+    }
+    \strng{namehash}{MAHJ1}
+    \strng{fullhash}{MAHJ1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MH10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{FDL}
+    \field{title}{Proceedings of the 2010 Forum on specification {\&} Design
+  Languages, FDL 2010, September 14-16, 2010, Southampton, UK}
+    \field{year}{2010}
+  \endentry
+
+  \entry{DBLP:conf/sigsoft/2010}{proceedings}{}
+    \name{editor}{2}{}{%
+      {{hash=RGC}{%
+         family={Roman},
+         family_i={R\bibinitperiod},
+         given={Gruia-Catalin},
+         given_i={G\bibinitperiod-C\bibinitperiod},
+      }}%
+      {{hash=SKJ}{%
+         family={Sullivan},
+         family_i={S\bibinitperiod},
+         given={Kevin\bibnamedelima J.},
+         given_i={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{RGCSKJ1}
+    \strng{fullhash}{RGCSKJ1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{RS10}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{SIGSOFT FSE}
+    \field{isbn}{978-1-60558-791-2}
+    \field{title}{Proceedings of the 18th ACM SIGSOFT International Symposium
+  on Foundations of Software Engineering, 2010, Santa Fe, NM, USA, November
+  7-11, 2010}
+    \field{year}{2010}
+  \endentry
+
+  \entry{DBLP:conf/euromicro/2011}{proceedings}{}
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Dbl}
+    \field{extraalpha}{4}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{EUROMICRO-SEAA}
+    \field{isbn}{978-1-4577-1027-8}
+    \field{title}{37th EUROMICRO Conference on Software Engineering and
+  Advanced Applications}
+    \list{location}{1}{%
+      {Oulu, Finland}%
+    }
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{APSEC2011}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=CX}{%
+         family={Chen},
+         family_i={C\bibinitperiod},
+         given={Xiaohong},
+         given_i={X\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liu},
+         family_i={L\bibinitperiod},
+         given={Jing},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Frederic},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=JZ}{%
+         family={Jin},
+         family_i={J\bibinitperiod},
+         given={Zhi},
+         given_i={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CX+1}
+    \strng{fullhash}{CXLJMFJZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Che+11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{18th Asia Pacific Software Engineering Conference
+  (APSEC'11)}
+    \field{title}{Modeling Timing Requirements in Problem Frames Using CCSL}
+    \list{location}{1}{%
+      {Ho Chi Minh Ville, Vietnam}%
+    }
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{DBLP:conf/time/2011}{proceedings}{}
+    \name{editor}{3}{}{%
+      {{hash=CC}{%
+         family={Combi},
+         family_i={C\bibinitperiod},
+         given={Carlo},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Leucker},
+         family_i={L\bibinitperiod},
+         given={Martin},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wolter},
+         family_i={W\bibinitperiod},
+         given={Frank},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{CCLMWF1}
+    \strng{fullhash}{CCLMWF1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CLW11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{TIME}
+    \field{isbn}{978-1-4577-1242-5}
+    \field{title}{Eighteenth International Symposium on Temporal Representation
+  and Reasoning, TIME 2011}
+    \list{location}{1}{%
+      {L{\"u}beck , Germany}%
+    }
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{GarcesDM11}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GK}{%
+         family={Garc{\'e}s},
+         family_i={G\bibinitperiod},
+         given={Kelly},
+         given_i={K\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{crossref}{DBLP:conf/euromicro/2011}
+    \strng{namehash}{GKDJMF1}
+    \strng{fullhash}{GKDJMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GDM11}
+    \field{extraalpha}{1}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{EUROMICRO-SEAA}
+    \verb{doi}
+    \verb http://doi.ieeecomputersociety.org/10.1109/SEAA.2011.47
+    \endverb
+    \field{isbn}{978-1-4577-1027-8}
+    \field{pages}{259\bibrangedash 266}
+    \field{title}{A Model-Based Approach for Reconciliation of Polychronous
+  Execution Traces}
+    \list{location}{1}{%
+      {Oulu, Finland}%
+    }
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{GARCES:2011:HAL-00652987:1}{report}{}
+    \name{author}{3}{}{%
+      {{hash=GK}{%
+         family={Garc{\'e}s},
+         family_i={G\bibinitperiod},
+         given={Kelly},
+         given_i={K\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Deantoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \strng{namehash}{GKDJMF2}
+    \strng{fullhash}{GKDJMF2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GDM11}
+    \field{extraalpha}{2}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{{Transforming CCSL partially-ordered Traces into UML
+  Interaction Diagrams}}
+    \verb{url}
+    \verb http://hal.archives-ouvertes.fr/hal-00652987/en/
+    \endverb
+    \verb{file}
+    \verb http://hal.archives-ouvertes.fr/hal-00652987/PDF/RR-7842.pdf
+    \endverb
+    \field{type}{techreport}
+    \field{month}{12}
+    \field{year}{2011}
+  \endentry
+
+  \entry{GasconMD11}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GR}{%
+         family={Gascon},
+         family_i={G\bibinitperiod},
+         given={R{\'e}gis},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=CC}{%
+         family={Combi},
+         family_i={C\bibinitperiod},
+         given={Carlo},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Leucker},
+         family_i={L\bibinitperiod},
+         given={Martin},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wolter},
+         family_i={W\bibinitperiod},
+         given={Frank},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{crossref}{DBLP:conf/time/2011}
+    \strng{namehash}{GRMFDJ1}
+    \strng{fullhash}{GRMFDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GMD11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{TIME}
+    \verb{doi}
+    \verb http://doi.ieeecomputersociety.org/10.1109/TIME.2011.10
+    \endverb
+    \field{isbn}{978-1-4577-1242-5}
+    \field{pages}{141\bibrangedash 148}
+    \field{title}{Logical Time and Temporal Logics: Comparing UML MARTE/CCSL
+  and PSL}
+    \list{location}{1}{%
+      {L{\"u}beck , Germany}%
+    }
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{gomez:2011:hal-00596239:1}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GC}{%
+         family={Gomez},
+         family_i={G\bibinitperiod},
+         given={Carlos},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Deantoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GCDJMF3}
+    \strng{fullhash}{GCDJMF3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GDM11}
+    \field{extraalpha}{3}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{{Journ{\'e}es nationales IDM, CAL, et du GDR GPL}}
+    \field{pages}{19}
+    \field{title}{{Semantic Multi-View model for Low-Power}}
+    \verb{url}
+    \verb http://hal.inria.fr/hal-00596239/en
+    \endverb
+    \list{location}{1}{%
+      {Lille, France}%
+    }
+    \field{month}{06}
+    \field{year}{2011}
+  \endentry
+
+  \entry{MBED2011}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=LJF}{%
+         family={{LE TALLEC}},
+         family_i={L\bibinitperiod},
+         given={Jean-FranÃ§ois},
+         given_i={J\bibinitperiod-F\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={{De Simone}},
+         family_i={D\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Ferrero},
+         family_i={F\bibinitperiod},
+         given={Beno\^{\i}t},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=MCL}{%
+         family={Maillet-Contoz},
+         family_i={M\bibinitperiod-C\bibinitperiod},
+         given={Laurent},
+         given_i={L\bibinitperiod},
+      }}%
+    }
+    \keyw{Model-based SoC design, SystemC, IP-XACT, UML-MARTE}
+    \strng{namehash}{LJF+1}
+    \strng{fullhash}{LJFDJDRFBMFMCL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{LE }+11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Proceedings of the 2011 Workshop on Model Based
+  Engineering for Embedded Systems Design}
+    \field{series}{M-BED'2011}
+    \field{title}{Combining {SystemC}, {IP-XACT} and {UML-MARTE} in model-based
+  {SoC} design}
+    \list{location}{1}{%
+      {Grenoble, France}%
+    }
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Mallet2011}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Lambert Academic Publisher LAP}%
+    }
+    \strng{namehash}{MF1}
+    \strng{fullhash}{MF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mal11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{ISBN: 978-3-8433-9388-1}
+    \field{pages}{124}
+    \field{title}{Logical Time @ Work for the Modeling and Analysis of Embedded
+  Systems}
+    \field{year}{2011}
+  \endentry
+
+  \entry{MalletAS11}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Andr{\'e}},
+         family_i={A\bibinitperiod},
+         given={Charles},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFACSRd3}
+    \strng{fullhash}{MFACSRd3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MAS11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb http://doi.acm.org/10.1145/1921532.1921554
+    \endverb
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{Logical time: specification vs. implementation}
+    \field{volume}{36}
+    \field{journaltitle}{ACM SIGSOFT Software Engineering Notes}
+    \field{year}{2011}
+  \endentry
+
+  \entry{DBLP:conf/iceccs/2011}{proceedings}{}
+    \name{editor}{3}{}{%
+      {{hash=PI}{%
+         family={Perseil},
+         family_i={P\bibinitperiod},
+         given={Isabelle},
+         given_i={I\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Breitman},
+         family_i={B\bibinitperiod},
+         given={Karin},
+         given_i={K\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sterritt},
+         family_i={S\bibinitperiod},
+         given={Roy},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{namehash}{PIBKSR1}
+    \strng{fullhash}{PIBKSR1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{PBS11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICECCS}
+    \field{title}{16th IEEE International Conference on Engineering of Complex
+  Computer Systems, ICECCS 2011, Las Vegas, Nevada, USA, 27-29 April 2011}
+    \field{year}{2011}
+  \endentry
+
+  \entry{PerseilPRFDBJBMBFZBSCAFMG11}{inproceedings}{}
+    \name{author}{19}{}{%
+      {{hash=PI}{%
+         family={Perseil},
+         family_i={P\bibinitperiod},
+         given={Isabelle},
+         given_i={I\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Pautet},
+         family_i={P\bibinitperiod},
+         given={Laurent},
+         given_i={L\bibinitperiod},
+      }}%
+      {{hash=RJF}{%
+         family={Rolland},
+         family_i={R\bibinitperiod},
+         given={Jean-Fran\c{c}ois},
+         given_i={J\bibinitperiod-F\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Filali},
+         family_i={F\bibinitperiod},
+         given={Mamoun},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Delanote},
+         family_i={D\bibinitperiod},
+         given={Didier},
+         given_i={D\bibinitperiod},
+      }}%
+      {{hash=BSV}{%
+         family={Baelen},
+         family_i={B\bibinitperiod},
+         given={Stefan\bibnamedelima Van},
+         given_i={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=JW}{%
+         family={Joosen},
+         family_i={J\bibinitperiod},
+         given={Wouter},
+         given_i={W\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Berbers},
+         family_i={B\bibinitperiod},
+         given={Yolande},
+         given_i={Y\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bertrand},
+         family_i={B\bibinitperiod},
+         given={Dominique},
+         given_i={D\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Faucou},
+         family_i={F\bibinitperiod},
+         given={S{\'e}bastien},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zitouni},
+         family_i={Z\bibinitperiod},
+         given={Abdelhafid},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Boufa\"{\i}da},
+         family_i={B\bibinitperiod},
+         given={Mahmoud},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Seinturier},
+         family_i={S\bibinitperiod},
+         given={Lionel},
+         given_i={L\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Champeau},
+         family_i={C\bibinitperiod},
+         given={Jo{\"e}l},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Abdoul},
+         family_i={A\bibinitperiod},
+         given={Thomas},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=FPH}{%
+         family={Feiler},
+         family_i={F\bibinitperiod},
+         given={Peter\bibnamedelima H.},
+         given_i={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mraidha},
+         family_i={M\bibinitperiod},
+         given={Chokri},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={G{\'e}rard},
+         family_i={G\bibinitperiod},
+         given={S{\'e}bastien},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=PI}{%
+         family={Perseil},
+         family_i={P\bibinitperiod},
+         given={Isabelle},
+         given_i={I\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Breitman},
+         family_i={B\bibinitperiod},
+         given={Karin},
+         given_i={K\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sterritt},
+         family_i={S\bibinitperiod},
+         given={Roy},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{crossref}{DBLP:conf/iceccs/2011}
+    \strng{namehash}{PI+1}
+    \strng{fullhash}{PIPLRJFFMDDBSVJWBYMFBDFSZABMSLCJATFPHMCGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Per+11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICECCS}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1109/ICECCS.2011.38
+    \endverb
+    \field{pages}{317\bibrangedash 331}
+    \field{title}{An Efficient Modeling and Execution Framework for Complex
+  Systems Development}
+    \field{year}{2011}
+  \endentry
+
+  \entry{YinML11}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=YL}{%
+         family={Yin},
+         family_i={Y\bibinitperiod},
+         given={Ling},
+         given_i={L\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liu},
+         family_i={L\bibinitperiod},
+         given={Jing},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=PI}{%
+         family={Perseil},
+         family_i={P\bibinitperiod},
+         given={Isabelle},
+         given_i={I\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Breitman},
+         family_i={B\bibinitperiod},
+         given={Karin},
+         given_i={K\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sterritt},
+         family_i={S\bibinitperiod},
+         given={Roy},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{crossref}{DBLP:conf/iceccs/2011}
+    \strng{namehash}{YLMFLJ1}
+    \strng{fullhash}{YLMFLJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{YML11}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICECCS}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1109/ICECCS.2011.14
+    \endverb
+    \field{pages}{65\bibrangedash 74}
+    \field{title}{Verification of MARTE/CCSL Time Requirements in Promela/SPIN}
+    \field{year}{2011}
+  \endentry
+
+  \entry{DBLP:conf/euromicro/2012}{proceedings}{}
+    \name{editor}{3}{}{%
+      {{hash=CV}{%
+         family={Cortellessa},
+         family_i={C\bibinitperiod},
+         given={Vittorio},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Muccini},
+         family_i={M\bibinitperiod},
+         given={Henry},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=DO}{%
+         family={Demir{\"o}rs},
+         family_i={D\bibinitperiod},
+         given={Onur},
+         given_i={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{namehash}{CVMHDO1}
+    \strng{fullhash}{CVMHDO1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CMD12}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{EUROMICRO-SEAA}
+    \field{isbn}{978-1-4673-2451-9}
+    \field{title}{38th Euromicro Conference on Software Engineering and
+  Advanced Applications, SEAA 2012, Cesme, Izmir, Turkey, September 5-8, 2012}
+    \field{year}{2012}
+  \endentry
+
+  \entry{DeantoniM12}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=DJ}{%
+         family={Deantoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=FCA}{%
+         family={Furia},
+         family_i={F\bibinitperiod},
+         given={Carlo\bibnamedelima A.},
+         given_i={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nanz},
+         family_i={N\bibinitperiod},
+         given={Sebastian},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{crossref}{DBLP:conf/tools/50-2012}
+    \strng{namehash}{DJMF1}
+    \strng{fullhash}{DJMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{DM12}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{TOOLS (50)}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1007/978-3-642-30561-0_4
+    \endverb
+    \field{isbn}{978-3-642-30560-3}
+    \field{pages}{34\bibrangedash 41}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{TimeSquare: Treat your Models with Logical Time}
+    \field{volume}{7304}
+    \field{year}{2012}
+  \endentry
+
+  \entry{DBLP:conf/tools/50-2012}{proceedings}{}
+    \name{editor}{2}{}{%
+      {{hash=FCA}{%
+         family={Furia},
+         family_i={F\bibinitperiod},
+         given={Carlo\bibnamedelima A.},
+         given_i={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nanz},
+         family_i={N\bibinitperiod},
+         given={Sebastian},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{FCANS1}
+    \strng{fullhash}{FCANS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{FN12}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{TOOLS (50)}
+    \field{isbn}{978-3-642-30560-3}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{Objects, Models, Components, Patterns - 50th International
+  Conference, TOOLS 2012, Prague, Czech Republic, May 29-31, 2012. Proceedings}
+    \field{volume}{7304}
+    \field{year}{2012}
+  \endentry
+
+  \entry{springerlink:10.1007/978-1-4614-1427-8_14}{inbook}{}
+    \name{author}{3}{}{%
+      {{hash=GC}{%
+         family={Glitia},
+         family_i={G\bibinitperiod},
+         given={Calin},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer New York}%
+    }
+    \strng{namehash}{GCDJMF2}
+    \strng{fullhash}{GCDJMF2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GDM12}
+    \field{extraalpha}{1}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{System Specification and Design Languages}
+    \field{chapter}{14}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1007/978-1-4614-1427-8_14
+    \endverb
+    \field{isbn}{978-1-4614-1427-8}
+    \field{pages}{223\bibrangedash 238}
+    \field{series}{Lecture Notes in Electrical Engineering}
+    \field{title}{Logical Time @ Work: Capturing Data Dependencies and Platform
+  Constraints}
+    \field{volume}{106}
+    \field{year}{2012}
+  \endentry
+
+  \entry{springerlink:10.1007/s10617-012-9093-y}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GC}{%
+         family={Glitia},
+         family_i={G\bibinitperiod},
+         given={Calin},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=MJV}{%
+         family={Millo},
+         family_i={M\bibinitperiod},
+         given={Jean-Vivien},
+         given_i={J\bibinitperiod-V\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Boulet},
+         family_i={B\bibinitperiod},
+         given={Pierre},
+         given_i={P\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gamati\'e},
+         family_i={G\bibinitperiod},
+         given={Abdoulaye},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Netherlands}%
+    }
+    \strng{namehash}{GC+1}
+    \strng{fullhash}{GCDJMFMJVBPGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gli+12}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1007/s10617-012-9093-y
+    \endverb
+    \field{issn}{0929-5585}
+    \field{issue}{2}
+    \field{pages}{137\bibrangedash 169}
+    \field{title}{Progressive and explicit refinement of scheduling for
+  multidimensional data-flow applications using {UML/Marte}}
+    \field{volume}{16}
+    \field{journaltitle}{Design Automation for Embedded Systems}
+    \field{year}{2012}
+  \endentry
+
+  \entry{GomezDM12}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GC}{%
+         family={Gomez},
+         family_i={G\bibinitperiod},
+         given={Carlos},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=CV}{%
+         family={Cortellessa},
+         family_i={C\bibinitperiod},
+         given={Vittorio},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Muccini},
+         family_i={M\bibinitperiod},
+         given={Henry},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=DO}{%
+         family={Demir{\"o}rs},
+         family_i={D\bibinitperiod},
+         given={Onur},
+         given_i={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{crossref}{DBLP:conf/euromicro/2012}
+    \strng{namehash}{GCDJMF4}
+    \strng{fullhash}{GCDJMF4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GDM12}
+    \field{extraalpha}{2}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{EUROMICRO-SEAA}
+    \verb{doi}
+    \verb http://doi.ieeecomputersociety.org/10.1109/SEAA.2012.66
+    \endverb
+    \field{isbn}{978-1-4673-2451-9}
+    \field{pages}{17\bibrangedash 20}
+    \field{title}{Multi-view Power Modeling Based on {UML}, {MARTE} and
+  {SysML}}
+    \field{year}{2012}
+  \endentry
+
+  \entry{LiuLHMZ12}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=LZ}{%
+         family={Liu},
+         family_i={L\bibinitperiod},
+         given={Ziwei},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liu},
+         family_i={L\bibinitperiod},
+         given={Jing},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={He},
+         family_i={H\bibinitperiod},
+         given={Jifeng},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zhang},
+         family_i={Z\bibinitperiod},
+         given={Miaomiao},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=MT}{%
+         family={Margaria},
+         family_i={M\bibinitperiod},
+         given={Tiziana},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=QZ}{%
+         family={Qiu},
+         family_i={Q\bibinitperiod},
+         given={Zongyan},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=YH}{%
+         family={Yang},
+         family_i={Y\bibinitperiod},
+         given={Hongli},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{crossref}{DBLP:conf/tase/2012}
+    \strng{namehash}{LZ+1}
+    \strng{fullhash}{LZLJHJMFZM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Liu+12}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{TASE}
+    \field{isbn}{978-0-7695-4751-0}
+    \field{pages}{59\bibrangedash 66}
+    \field{title}{Formal Specification of Hybrid MARTE Statecharts}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Mallet12}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{crossref}{DBLP:conf/rsp/2012}
+    \strng{namehash}{MF2}
+    \strng{fullhash}{MF2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mal12}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{RSP}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1109/RSP.2012.6380695
+    \endverb
+    \field{isbn}{978-1-4673-2786-2}
+    \field{pages}{86\bibrangedash 92}
+    \field{title}{Automatic generation of observers from {MARTE/CCSL}}
+    \list{location}{1}{%
+      {Tampere, Finland}%
+    }
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{DBLP:conf/tase/2012}{proceedings}{}
+    \name{editor}{3}{}{%
+      {{hash=MT}{%
+         family={Margaria},
+         family_i={M\bibinitperiod},
+         given={Tiziana},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=QZ}{%
+         family={Qiu},
+         family_i={Q\bibinitperiod},
+         given={Zongyan},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=YH}{%
+         family={Yang},
+         family_i={Y\bibinitperiod},
+         given={Hongli},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{MTQZYH1}
+    \strng{fullhash}{MTQZYH1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MQY12}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{TASE}
+    \field{isbn}{978-0-7695-4751-0}
+    \field{title}{Sixth International Symposium on Theoretical Aspects of
+  Software Engineering, TASE 2012, 4-6 July 2012, Beijing, China}
+    \field{year}{2012}
+  \endentry
+
+  \entry{DBLP:conf/rsp/2012}{proceedings}{}
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Dbl}
+    \field{extraalpha}{7}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{RSP}
+    \field{isbn}{978-1-4673-2786-2}
+    \field{title}{Proceedings of the 23rd IEEE International Symposium on Rapid
+  System Prototyping, RSP 2012}
+    \list{location}{1}{%
+      {Tampere, Finland}%
+    }
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{CombemaleDLMBBF13}{inproceedings}{}
+    \name{author}{7}{}{%
+      {{hash=CB}{%
+         family={Combemale},
+         family_i={C\bibinitperiod},
+         given={Beno\^{\i}t},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=LMV}{%
+         family={Larsen},
+         family_i={L\bibinitperiod},
+         given={Matias\bibnamedelima Vara},
+         given_i={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=BO}{%
+         family={Barais},
+         family_i={B\bibinitperiod},
+         given={Olivier},
+         given_i={O\bibinitperiod},
+      }}%
+      {{hash=BB}{%
+         family={Baudry},
+         family_i={B\bibinitperiod},
+         given={Benoit},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=FRB}{%
+         family={France},
+         family_i={F\bibinitperiod},
+         given={Robert\bibnamedelima B.},
+         given_i={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{CB+1}
+    \strng{fullhash}{CBDJLMVMFBOBBFRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Com+13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{6th Int. Conf. on Software Language Engineering - SLE
+  2013}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1007/978-3-319-02654-1_20
+    \endverb
+    \field{isbn}{978-3-319-02653-4}
+    \field{pages}{365\bibrangedash 384}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{Reifying Concurrency for Executable Metamodeling}
+    \field{volume}{8225}
+    \list{location}{1}{%
+      {Indianapolis, IN, USA}%
+    }
+    \field{month}{10}
+    \field{year}{2013}
+  \endentry
+
+  \entry{DBLP:conf/icteri/2013}{proceedings}{}
+    \name{editor}{9}{}{%
+      {{hash=EV}{%
+         family={Ermolayev},
+         family_i={E\bibinitperiod},
+         given={Vadim},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=MHC}{%
+         family={Mayr},
+         family_i={M\bibinitperiod},
+         given={Heinrich\bibnamedelima C.},
+         given_i={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nikitchenko},
+         family_i={N\bibinitperiod},
+         given={Mykola},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Spivakovsky},
+         family_i={S\bibinitperiod},
+         given={Aleksander},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zholtkevych},
+         family_i={Z\bibinitperiod},
+         given={Grygoriy},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zavileysky},
+         family_i={Z\bibinitperiod},
+         given={Mikhail},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kravtsov},
+         family_i={K\bibinitperiod},
+         given={Hennadiy},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kobets},
+         family_i={K\bibinitperiod},
+         given={Vitaliy},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=PVS}{%
+         family={Peschanenko},
+         family_i={P\bibinitperiod},
+         given={Vladimir\bibnamedelima S.},
+         given_i={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CEUR-WS.org}%
+    }
+    \strng{namehash}{EV+1}
+    \strng{fullhash}{EVMHCNMSAZGZMKHKVPVS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Erm+13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICTERI}
+    \field{series}{CEUR Workshop Proceedings}
+    \field{title}{Proceedings of the 9th International Conference on ICT in
+  Education, Research and Industrial Applications: Integration, Harmonization
+  and Knowledge Transfer, Kherson, Ukraine, June 19-22, 2013}
+    \field{volume}{1000}
+    \field{year}{2013}
+  \endentry
+
+  \entry{GoknilSPM13}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=GA}{%
+         family={Goknil},
+         family_i={G\bibinitperiod},
+         given={Arda},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Suryadevara},
+         family_i={S\bibinitperiod},
+         given={Jagadish},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=PFMA}{%
+         family={Peraldi-Frati},
+         family_i={P\bibinitperiod-F\bibinitperiod},
+         given={Marie-Agn{\`e}s},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{GA+1}
+    \strng{fullhash}{GASJPFMAMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gok+13}
+    \field{extraalpha}{1}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{European Conference Software Architecture - ECSA'13}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1007/978-3-642-39031-9_8
+    \endverb
+    \field{isbn}{978-3-642-39030-2}
+    \field{pages}{89\bibrangedash 105}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{Analysis Support for TADL2 Timing Constraints on EAST-ADL
+  Models}
+    \field{volume}{7957}
+    \field{year}{2013}
+  \endentry
+
+  \entry{GoknilDPM13}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=GA}{%
+         family={Goknil},
+         family_i={G\bibinitperiod},
+         given={Arda},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=PFMA}{%
+         family={Peraldi-Frati},
+         family_i={P\bibinitperiod-F\bibinitperiod},
+         given={Marie-Agn{\`e}s},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{GA+1}
+    \strng{fullhash}{GADJPFMAMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gok+13}
+    \field{extraalpha}{2}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Int. Conf. on Engineering of Complex Computer Systems}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1109/ICECCS.2013.28
+    \endverb
+    \field{pages}{145\bibrangedash 154}
+    \field{title}{Tool Support for the Analysis of TADL2 Timing Constraints
+  Using TimeSquare}
+    \list{location}{1}{%
+      {Singapore}%
+    }
+    \field{month}{07}
+    \field{year}{2013}
+  \endentry
+
+  \entry{LiuLHMD13}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LJ}{%
+         family={Liu},
+         family_i={L\bibinitperiod},
+         given={Jing},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Liu},
+         family_i={L\bibinitperiod},
+         given={Ziwei},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={He},
+         family_i={H\bibinitperiod},
+         given={Jifeng},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DZ}{%
+         family={Ding},
+         family_i={D\bibinitperiod},
+         given={Zuohua},
+         given_i={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJLZHJMFDZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Liu+13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{1}
+    \field{pages}{95\bibrangedash 108}
+    \field{title}{Hybrid MARTE statecharts}
+    \field{volume}{7}
+    \field{journaltitle}{Frontiers of Computer Science}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Mallet13}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{9}{}{%
+      {{hash=EV}{%
+         family={Ermolayev},
+         family_i={E\bibinitperiod},
+         given={Vadim},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=MHC}{%
+         family={Mayr},
+         family_i={M\bibinitperiod},
+         given={Heinrich\bibnamedelima C.},
+         given_i={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nikitchenko},
+         family_i={N\bibinitperiod},
+         given={Mykola},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Spivakovsky},
+         family_i={S\bibinitperiod},
+         given={Aleksander},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zholtkevych},
+         family_i={Z\bibinitperiod},
+         given={Grygoriy},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zavileysky},
+         family_i={Z\bibinitperiod},
+         given={Mikhail},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kravtsov},
+         family_i={K\bibinitperiod},
+         given={Hennadiy},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kobets},
+         family_i={K\bibinitperiod},
+         given={Vitaliy},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=PVS}{%
+         family={Peschanenko},
+         family_i={P\bibinitperiod},
+         given={Vladimir\bibnamedelima S.},
+         given_i={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CEUR-WS.org}%
+    }
+    \strng{crossref}{DBLP:conf/icteri/2013}
+    \strng{namehash}{MF2}
+    \strng{fullhash}{MF2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mal13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICTERI}
+    \field{pages}{289\bibrangedash 294}
+    \field{series}{CEUR Workshop Proceedings}
+    \field{title}{UML Profile for MARTE: Time Model and CCSL}
+    \field{volume}{1000}
+    \field{year}{2013}
+  \endentry
+
+  \entry{icfem13}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=MJV}{%
+         family={Millo},
+         family_i={M\bibinitperiod},
+         given={Jean-Vivien},
+         given_i={J\bibinitperiod-V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{MFMJV1}
+    \strng{fullhash}{MFMJV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MM13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Formal Methods and Software Engineering - ICFEM 2013}
+    \field{pages}{20\bibrangedash 35}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{Boundedness issues in {CCSL} specifications}
+    \field{volume}{8144}
+    \field{year}{2013}
+  \endentry
+
+  \entry{MalletMS13}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=MJV}{%
+         family={Millo},
+         family_i={M\bibinitperiod},
+         given={Jean-Vivien},
+         given_i={J\bibinitperiod-V\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{MFMJVSRd1}
+    \strng{fullhash}{MFMJVSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MMS13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{11th ACM/IEEE Int. Conf. on Formal Methods and Models for
+  Codesign (MEMOCODE)}
+    \field{isbn}{978-1-4799-0903-2}
+    \field{pages}{157\bibrangedash 166}
+    \field{title}{Safe {CCSL} specifications and marked graphs}
+    \field{year}{2013}
+  \endentry
+
+  \entry{MilloMCR13}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MJV}{%
+         family={Millo},
+         family_i={M\bibinitperiod},
+         given={Jean-Vivien},
+         given_i={J\bibinitperiod-V\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Coadou},
+         family_i={C\bibinitperiod},
+         given={Anthony},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Ramesh},
+         family_i={R\bibinitperiod},
+         given={S.},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJV+1}
+    \strng{fullhash}{MJVMFCARS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mil+13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{5}
+    \field{pages}{650\bibrangedash 672}
+    \field{title}{Scenario-based verification in presence of variability using
+  a synchronous approach}
+    \field{volume}{7}
+    \field{journaltitle}{Frontiers of Computer Science}
+    \field{year}{2013}
+  \endentry
+
+  \entry{RomenskaM13}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=RY}{%
+         family={Romenska},
+         family_i={R\bibinitperiod},
+         given={Yuliia},
+         given_i={Y\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{9}{}{%
+      {{hash=EV}{%
+         family={Ermolayev},
+         family_i={E\bibinitperiod},
+         given={Vadim},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=MHC}{%
+         family={Mayr},
+         family_i={M\bibinitperiod},
+         given={Heinrich\bibnamedelima C.},
+         given_i={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nikitchenko},
+         family_i={N\bibinitperiod},
+         given={Mykola},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Spivakovsky},
+         family_i={S\bibinitperiod},
+         given={Aleksander},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zholtkevych},
+         family_i={Z\bibinitperiod},
+         given={Grygoriy},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zavileysky},
+         family_i={Z\bibinitperiod},
+         given={Mikhail},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kravtsov},
+         family_i={K\bibinitperiod},
+         given={Hennadiy},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kobets},
+         family_i={K\bibinitperiod},
+         given={Vitaliy},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=PVS}{%
+         family={Peschanenko},
+         family_i={P\bibinitperiod},
+         given={Vladimir\bibnamedelima S.},
+         given_i={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CEUR-WS.org}%
+    }
+    \strng{crossref}{DBLP:conf/icteri/2013}
+    \strng{namehash}{RYMF1}
+    \strng{fullhash}{RYMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{RM13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICTERI}
+    \field{pages}{130\bibrangedash 145}
+    \field{series}{CEUR Workshop Proceedings}
+    \field{title}{Lazy Parallel Synchronous Composition of Infinite Transition
+  Systems}
+    \field{volume}{1000}
+    \field{year}{2013}
+  \endentry
+
+  \entry{SuryadevaraSMP13}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=SJ}{%
+         family={Suryadevara},
+         family_i={S\bibinitperiod},
+         given={Jagadish},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=SCC}{%
+         family={Seceleanu},
+         family_i={S\bibinitperiod},
+         given={Cristina\bibnamedelima Cerschi},
+         given_i={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Pettersson},
+         family_i={P\bibinitperiod},
+         given={Paul},
+         given_i={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SJ+1}
+    \strng{fullhash}{SJSCCMFPP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sur+13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Software Engineering and Formal Methods - SEFM'13}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1007/978-3-642-40561-7_1
+    \endverb
+    \field{isbn}{978-3-642-40560-0}
+    \field{pages}{1\bibrangedash 15}
+    \field{series}{Lecture Notes in Computer Science}
+    \field{title}{Verifying {MARTE/CCSL} Mode Behaviors Using {UPPAAL}}
+    \field{volume}{8137}
+    \list{location}{1}{%
+      {Madrid, Spain}%
+    }
+    \field{month}{09}
+    \field{year}{2013}
+  \endentry
+
+  \entry{YinLDMS13}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=YL}{%
+         family={Yin},
+         family_i={Y\bibinitperiod},
+         given={Ling},
+         given_i={L\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liu},
+         family_i={L\bibinitperiod},
+         given={Jing},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=DZ}{%
+         family={Ding},
+         family_i={D\bibinitperiod},
+         given={Zuohua},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'{e}}d{\'{e}}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YL+1}
+    \strng{fullhash}{YLLJDZMFSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Yin+13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{20th Asia-Pacific Software Engineering Conference,
+  {APSEC} 2013}
+    \verb{doi}
+    \verb 10.1109/APSEC.2013.62
+    \endverb
+    \field{pages}{414\bibrangedash 421}
+    \field{title}{Schedulability Analysis with {CCSL} Specifications}
+    \field{volume}{1}
+    \list{location}{1}{%
+      {Ratchathewi, Bangkok, Thailand}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{ZaretskaZZM13}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=ZI}{%
+         family={Zaretska},
+         family_i={Z\bibinitperiod},
+         given={Iryna},
+         given_i={I\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zholtkevych},
+         family_i={Z\bibinitperiod},
+         given={Galyna},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zholtkevych},
+         family_i={Z\bibinitperiod},
+         given={Grygoriy},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{9}{}{%
+      {{hash=EV}{%
+         family={Ermolayev},
+         family_i={E\bibinitperiod},
+         given={Vadim},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=MHC}{%
+         family={Mayr},
+         family_i={M\bibinitperiod},
+         given={Heinrich\bibnamedelima C.},
+         given_i={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nikitchenko},
+         family_i={N\bibinitperiod},
+         given={Mykola},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Spivakovsky},
+         family_i={S\bibinitperiod},
+         given={Aleksander},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zholtkevych},
+         family_i={Z\bibinitperiod},
+         given={Grygoriy},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zavileysky},
+         family_i={Z\bibinitperiod},
+         given={Mikhail},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kravtsov},
+         family_i={K\bibinitperiod},
+         given={Hennadiy},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kobets},
+         family_i={K\bibinitperiod},
+         given={Vitaliy},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=PVS}{%
+         family={Peschanenko},
+         family_i={P\bibinitperiod},
+         given={Vladimir\bibnamedelima S.},
+         given_i={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CEUR-WS.org}%
+    }
+    \strng{crossref}{DBLP:conf/icteri/2013}
+    \strng{namehash}{ZI+1}
+    \strng{fullhash}{ZIZGZGMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Zar+13}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICTERI}
+    \field{pages}{475\bibrangedash 489}
+    \field{series}{CEUR Workshop Proceedings}
+    \field{title}{Clocks Model for Specification and Analysis of Timing in
+  Real-Time Embedded Systems}
+    \field{volume}{1000}
+    \field{year}{2013}
+  \endentry
+
+  \entry{DBLP:conf/tase/2014}{proceedings}{}
+    \list{publisher}{1}{%
+      {{IEEE} Computer Society}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Dbl}
+    \field{extraalpha}{3}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{isbn}{978-1-4799-5029-4}
+    \field{title}{2014 Theoretical Aspects of Software Engineering Conference,
+  {TASE'14}, Changsha, China, September 1-3, 2014}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Bourdelles2014}{inbook}{}
+    \name{author}{10}{}{%
+      {{hash=BM}{%
+         family={Bourdell\`es},
+         family_i={B\bibinitperiod},
+         given={Michel},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Li},
+         family_i={L\bibinitperiod},
+         given={Shuai},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=QI}{%
+         family={Quadri},
+         family_i={Q\bibinitperiod},
+         given={Imran},
+         given_i={I\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Brosse},
+         family_i={B\bibinitperiod},
+         given={Etienne},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sadovykh},
+         family_i={S\bibinitperiod},
+         given={Andrey},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=GE}{%
+         family={Gaudin},
+         family_i={G\bibinitperiod},
+         given={Emmanuel},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Goknil},
+         family_i={G\bibinitperiod},
+         given={Arda},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={George},
+         family_i={G\bibinitperiod},
+         given={David},
+         given_i={D\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kreku},
+         family_i={K\bibinitperiod},
+         given={Jari},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IGI-Global}%
+    }
+    \strng{namehash}{BM+1}
+    \strng{fullhash}{BMLSQIBESAGEMFGAGDKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Bou+14}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{chapter}{11}
+    \field{note}{Handbook of Research on Embedded Systems Design}
+    \field{pages}{283\bibrangedash 300}
+    \field{title}{Fostering Analysis from Industrial Embedded Systemis
+  Modeling}
+    \field{year}{2014}
+  \endentry
+
+  \entry{KhecharemGDMS14}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=KA}{%
+         family={Khecharem},
+         family_i={K\bibinitperiod},
+         given={Amani},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Gomez},
+         family_i={G\bibinitperiod},
+         given={Carlos},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'{e}}d{\'{e}}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=dSR}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Simone},
+         family_i={S\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{IEEE}}%
+    }
+    \strng{crossref}{DBLP:conf/fdl/2014}
+    \strng{namehash}{KA+1}
+    \strng{fullhash}{KAGCDJMFSRd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Khe+14}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Proceedings of the 2014 Forum on Specification and Design
+  Languages, {FDL} 2014}
+    \verb{doi}
+    \verb 10.1109/FDL.2014.7119366
+    \endverb
+    \field{isbn}{978-2-9530504-9-3}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{Execution of heterogeneous models for thermal analysis with a
+  multi-view approach}
+    \list{location}{1}{%
+      {Munich, Germany}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{MalletZ14}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'{e}}d{\'{e}}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zholtkevych},
+         family_i={Z\bibinitperiod},
+         given={Grygoriy},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=AC}{%
+         family={Artho},
+         family_i={A\bibinitperiod},
+         given={Cyrille},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=OPC}{%
+         family={{\"{O}}lveczky},
+         family_i={{\"{O}}\bibinitperiod},
+         given={Peter\bibnamedelima Csaba},
+         given_i={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{crossref}{DBLP:conf/ftscs/2014}
+    \strng{namehash}{MFZG1}
+    \strng{fullhash}{MFZG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MZ14}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Formal Techniques for Safety-Critical Systems - Third
+  International Workshop, {FTSCS} 2014}
+    \verb{doi}
+    \verb 10.1007/978-3-319-17581-2_12
+    \endverb
+    \field{isbn}{978-3-319-17580-5}
+    \field{note}{Revised Selected Papers}
+    \field{pages}{174\bibrangedash 188}
+    \field{series}{Communications in Computer and Information Science}
+    \field{title}{Coalgebraic Semantic Model for the Clock Constraint
+  Specification Language}
+    \field{volume}{476}
+    \list{location}{1}{%
+      {Luxembourg}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{MalletPDS2014}{inbook}{}
+    \name{author}{4}{}{%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr\'ed\'eric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=PFMA}{%
+         family={Peraldi-Frati},
+         family_i={P\bibinitperiod-F\bibinitperiod},
+         given={Marie-Agn\`es},
+         given_i={M\bibinitperiod-A\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={DeAntoni},
+         family_i={D\bibinitperiod},
+         given={Julien},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=dR}{%
+         family={{de Simone}},
+         family_i={d\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IGI-Global}%
+    }
+    \strng{namehash}{MF+3}
+    \strng{fullhash}{MFPFMADJdR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mal+14}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{chapter}{2}
+    \verb{doi}
+    \verb 10.4018/978-1-4666-6194-3.ch002
+    \endverb
+    \field{note}{Handbook of Research on Embedded Systems Design}
+    \field{pages}{29\bibrangedash 51}
+    \field{title}{{UML MARTE} Time Model and Its Clock Constraint Specification
+  Language}
+    \field{year}{2014}
+  \endentry
+
+  \entry{DBLP:conf/fdl/2014}{proceedings}{}
+    \list{publisher}{1}{%
+      {{IEEE}}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Dbl}
+    \field{extraalpha}{6}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{isbn}{978-2-9530504-9-3}
+    \field{title}{Proceedings of the 2014 Forum on Specification and Design
+  Languages, {FDL} 2014, Munich, Germany, October 14-16, 2014}
+    \field{year}{2014}
+  \endentry
+
+  \entry{ZhangMC14}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=ZY}{%
+         family={Zhang},
+         family_i={Z\bibinitperiod},
+         given={Yuanrui},
+         given_i={Y\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mallet},
+         family_i={M\bibinitperiod},
+         given={Fr{\'{e}}d{\'{e}}ric},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         family_i={C\bibinitperiod},
+         given={Yixiang},
+         given_i={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZYMFCY1}
+    \strng{fullhash}{ZYMFCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{ZMC14}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{2014 Theoretical Aspects of Software Engineering
+  Conference, {TASE}}
+    \verb{doi}
+    \verb 10.1109/TASE.2014.10
+    \endverb
+    \field{pages}{201\bibrangedash 208}
+    \field{title}{Timed Automata Semantics of Spatial-Temporal Consistency
+  Language STeC}
+    \list{location}{1}{%
+      {Changsha, China}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{DBLP:conf/ftscs/2014}{proceedings}{}
+    \name{editor}{2}{}{%
+      {{hash=AC}{%
+         family={Artho},
+         family_i={A\bibinitperiod},
+         given={Cyrille},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=OPC}{%
+         family={{\"{O}}lveczky},
+         family_i={{\"{O}}\bibinitperiod},
+         given={Peter\bibnamedelima Csaba},
+         given_i={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ACOPC1}
+    \strng{fullhash}{ACOPC1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{A{\"{O}}15}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1007/978-3-319-17581-2
+    \endverb
+    \field{isbn}{978-3-319-17580-5}
+    \field{series}{Communications in Computer and Information Science}
+    \field{title}{Formal Techniques for Safety-Critical Systems - Third
+  International Workshop, {FTSCS} 2014, Luxembourg, November 6-7, 2014. Revised
+  Selected Papers}
+    \field{volume}{476}
+    \field{year}{2015}
+  \endentry
+\endsortlist
+\endinput

@@ -26,18 +26,27 @@
       <section>
 
       <article>
-        Fr&eacute;d&eacute;ric Mallet and Charles Andr&eacute; and Marie-Agn&egrave;s Peraldi-Frati.
+        <span class="moi">F. Mallet</span>, Charles Andr&eacute; and Marie-Agn&egrave;s Peraldi-Frati.
         <span class="pubtitle">From UML to Petri Nets for non functional Property Verification.</span>
         <a href="http://dx.doi.org/10.1109/IES.2006.357475"  target="autre"><sup>DOI</sup></a>
 <br>
       <span class="media">Industrial Embedded Systems, 2006. {IES} '06. International Symposium on</span>, pp. 1-9, 2006.
       </article>
+      </section>
+      <h2 class="category">Other / <span class="francais">Autre</span></h2>
+
+      <section>
 
       <article>
-        Charles Andr&eacute; and Arnaud Cuccuru and Robert de Simone and Thiery Gautier and Fr&eacute;d&eacute;ric Mallet and Jean-Pierre Talpin.
+        Charles Andr&eacute;, Arnaud Cuccuru, Robert de Simone, Thiery Gautier, <span class="moi">F. Mallet</span> and Jean-Pierre Talpin.
         <span class="pubtitle">Modeling with logical time in UML for real-time embedded system design.</span>
-<br>
-      <span class="media">MARTES 2006</span>, pp. 27-40, 2006.
+      <span class="media">Int. Work. on Modeling and Analysis of Real-Time and Embedded Systems (MARTES'06)</span>, pp. 27-40, 2006.
+      </article>
+
+      <article>
+        Charles Andr&eacute;, <span class="moi">F. Mallet</span> and Marie-Agn&egrave;s Peraldi-Frati.
+        <span class="pubtitle">Non-functional property analysis using UML2.0 and model transformations.</span>
+      Research Report, INRIA, RR-5913, 18 pages, 2006.
       </article>
       </section>
     <!--#include file="footer.html"-->

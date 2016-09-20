@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{comment}
+ 
+\usepackage[backend=bibtex,style=alphabetic,sorting=ynt]{biblatex}
+\addbibresource{mallet9806.bib}
+\addbibresource{mallet07.bib}
+\addbibresource{mallet08.bib}
+\addbibresource{mallet09.bib}
+\addbibresource{mallet10.bib}
+\addbibresource{mallet11.bib}
+\addbibresource{mallet12.bib}
+\addbibresource{mallet13.bib}
+\addbibresource{mallet14.bib}
+ 
+%\title{Bibliography management: \texttt{biblatex} package}
+%\author{Share\LaTeX}
+%\date{ }
+ 
+\begin{document}
+ 
+%\maketitle
+ 
+\renewcommand{\thesection}{6.\arabic{section}} 
+ \section{Liste de publications}
+\nocite{*}
+ 
+\medskip
+
+\printbibliography[title={Articles de journaux},type=article] 
+\printbibliography[title={Chapitres de livre},type=inbook] 
+\printbibliography[title={Actes de conférences internationales},type=inproceedings]
+%\printbibliography[title={Publications invitées},type=periodical]
+
+\end{document}
+

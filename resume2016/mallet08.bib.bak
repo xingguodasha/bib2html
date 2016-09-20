@@ -1,0 +1,130 @@
+% Encoding: UTF-8
+
+@InBook{lnee:andre08,
+  chapter   = {11},
+  pages     = {150--170},
+  title     = {Modeling of {AADL} data-communications with {UML} {M}arte},
+  publisher = {Springer},
+  year      = {2008},
+  author    = {Charles Andr\'e and Fr\'ed\'eric Mallet and Robert de Simone},
+  editor    = {Eugenio Villar},
+  volume    = {10},
+  series    = {LNEE},
+  month     = {5},
+  booktitle = {Embedded Systems Specification and Design Languages},
+}
+
+@InProceedings{iceccs08,
+  author    = {{L}ee, {S}u-{Y}oung and {M}allet, {F}r{\'e}d{\'e}ric and {D}e {S}imone, {R}obert},
+  title     = {{D}ealing with {AADL} {E}nd-to-end {F}low {L}atency with {UML} {MARTE}},
+  booktitle = {13th International Conference on Engineering of Complex Computer Systems (ICECCS'08)},
+  year      = {2008},
+  pages     = {228--233},
+  month     = {4},
+  publisher = {IEEE Computer Society},
+  doi       = {10.1109/ICECCS.2008.14},
+  location  = {Belfast, UK},
+}
+
+@article{ISSE08,
+  author    = {Fr\'ed\'eric Mallet and
+               Charles Andr\'e and
+               Robert de Simone},
+  title     = {{CCSL}: specifying clock constraints with {UML/Marte}},
+  journal   = {Innovations in Systems and Software Engineering},
+  volume    = {4},
+  number    = {3},
+  year      = {2008},
+  pages     = {309--314},
+  doi       = {10.1007/s11334-008-0055-2}
+}
+
+@InProceedings{fdl08,
+  author    = {Mallet, Fr\'ed\'eric and de Simone, Robert and Rioux, Laurent},
+  title     = {Event-triggered vs. time-triggered communications with {UML} {M}arte},
+  booktitle = {Forum on Specification, Verification and Design Languages (FDL'08)},
+  year      = {2008},
+  pages     = {154--159},
+  month     = {9},
+  doi       = {10.1109/FDL.2008.4641438},
+}
+
+@misc{2008:date,
+  author    = {Charles Andr\'e and Fr\'ed\'eric Mallet and Aamir Mehmood Khan and Robert de Simone },
+  title     = {Modeling {S}pirit {IP-XACT} in {UML} {M}arte},
+  booktitle = {Conf. on Design, Automation and Test in Europe (DATE), {MARTE Workshop}},
+  year      = {2008},
+  pages     = { 35--40 },
+  location  = { Munich, Germany},
+  month     = { 3 }
+}
+
+@misc{2008:safa,
+  author    = {Charles Andr\'e and Beno\"it Ferrero and Fr\'ed\'eric Mallet},
+  title     = {TimeSquare: a Multiform Time Simulation Environment},
+  booktitle = {Sophia Antipolis and Formal Analysis Workshop},
+  year      = {2008},
+  month     = { 12 }
+}
+
+@techreport{2008:RR-6599,
+  title       = {{A}n {A}utomated {P}rocess for {D}esigning {UML} {Profiles}},
+  author      = {{L}agarde, {F}ran{\c{c}}ois and 
+                 {M}allet, {F}r{\'e}d{\'e}ric and 
+                 {A}ndr{\'e}, {C}harles and 
+                 {G}{\'e}rard, {S}{\'e}bastien and 
+                 {T}errier, {F}ran{\c{c}}ois},
+  pages       = {17},
+  type        = {Research Report},
+  institution = {INRIA},
+  number      = {6599},
+  month       = {7},
+  year        = {2008},
+  URL         = {http://hal.inria.fr/inria-00308386/en/}
+}
+
+@TechReport{ 2008:RR-6540,
+  title       = {Clock Constraints in {UML} {MARTE} {CCSL}},
+  author      = {Andr\'e, Charles  and  Mallet, Fr\'ed\'eric},
+  year        = {2008},
+  month       = {5},
+  institution = {INRIA},
+  number      = {6540},
+  type        = {Research Report},
+  url         = {https://hal.inria.fr/inria-00280941}
+}
+
+@TechReport{ 2008:RR-6545,
+  author      = {Mallet, Fr\'ed\'eric  and  Andr\'e, Charles},
+  title       = {{UML}/{MARTE} {CCSL}, Signal and Petri nets},
+  year        = {2008},
+  month       = {5},
+  institution = {INRIA},
+  number      = {6545},
+  type        = {Research Report},
+  url         = {https://hal.inria.fr/inria-00283077}
+}
+
+@TechReport{ 2008:RR-6781,
+  author      = {Mallet, Fr\'ed\'eric and {Peraldi-Frati}, Marie-Agn{\`e}s and  
+                 Andr�, Charles},
+  title       = {Marte {CCSL} and {East-ADL2} Timing Requirements},
+  year        = {2008},
+  month       = {12},
+  institution = {INRIA},
+  number      = {6781},
+  type        = {Research Report},
+  url         = {http://hal.inria.fr/inria-00348134/en/}
+}
+
+@Periodical{electronique08,
+  title   = {Marte, le nouveau standard {UML} pour les syst\`emes temps r\'eel embarqu\'es},
+  year    = {2008},
+  number  = {189},
+  month   = {3},
+  author  = {S\'ebastien Demathieu and S\'ebastien G\'erard and Fr\'ed\'eric Mallet},
+  journal = {Electronique},
+  pages   = {2--6},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
