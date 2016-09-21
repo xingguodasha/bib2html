@@ -26,18 +26,18 @@
       <section>
 
       <article>
+        Calin Glitia, Julien DeAntoni, <span class="moi">F. Mallet</span>, Jean-Vivien Millo, Pierre Boulet and Abdoulaye GamatiÃ©.
+        <header>Progressive and explicit refinement of scheduling for multidimensional data-flow applications using UML MARTE.</header>
+        <span class="media">Design Autom. for Emb. Sys.</span>        19(1-2):1-33, 2015.
+        <a href="http://dx.doi.org/10.1007/s10617-014-9140-y"  target="autre"><sup>DOI</sup></a>      </article>
+
+      <article>
         <span class="moi">F. Mallet</span> and Robert de Simone.
         <header>Correctness issues on MARTE/CCSL constraints.</header>
         <span class="media">Sci. Comput. Program.</span>        106:78-92, 2015.
         <a href="http://dx.doi.org/10.1016/j.scico.2015.03.001"  target="autre"><sup>DOI</sup></a>      </article>
-
-      <article>
-        Calin Glitia, Julien DeAntoni, <span class="moi">F. Mallet</span>, Jean-Vivien Millo, Pierre Boulet and Abdoulaye Gamatié.
-        <header>Progressive and explicit refinement of scheduling for multidimensional data-flow applications using UML MARTE.</header>
-        <span class="media">Design Autom. for Emb. Sys.</span>        19(1-2):1-33, 2015.
-        <a href="http://dx.doi.org/10.1007/s10617-014-9140-y"  target="autre"><sup>DOI</sup></a>      </article>
       </section>
-      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de ConfÃ©rences</span></h2>
 
       <section>
 
@@ -49,7 +49,7 @@
       </article>
 
       <article>
-        Matias Ezequiel Vara Larsen, Julien DeAntoni, Benoît Combemale and <span class="moi">F. Mallet</span>.
+        Matias Ezequiel Vara Larsen, Julien DeAntoni, BenoÃ®t Combemale and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">A Behavioral Coordination Operator Language (BCOoL).</span>
         <a href="http://dx.doi.org/10.1109/MODELS.2015.7338249"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">{ACM/IEEE} Int. Conf. on Model Driven Engineering Languages and Systems (MoDELS'15)</span>, pp. 186-195, Sep. 2015.
@@ -67,7 +67,7 @@
       <section>
 
       <article>
-        Matias Ezequiel Vara Larsen, Julien DeAntoni, Benoît Combemale and <span class="moi">F. Mallet</span>.
+        Matias Ezequiel Vara Larsen, Julien DeAntoni, BenoÃ®t Combemale and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">A Model-Driven Based Environment for Automatic Model Coordination.</span>
       <span class="media">Demo and Poster Session, Models 2015</span>, pp. 44-47, Sep. 2015.
       </article>

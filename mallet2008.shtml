@@ -21,6 +21,104 @@
 
     <div class="content">
       <a href="mallet08.bib">BibTex</a>
+      <h2 class="category">Journal / <span class="francais">Revue</span></h2>
+
+      <section>
+
+      <article>
+        <span class="moi">F. Mallet</span>, Charles André and Robert de Simone.
+        <header>CCSL: specifying clock constraints with UML/Marte.</header>
+        <span class="media">Innovations in Systems and Software Engineering</span>        4(3):309-314, Springer, 2008.
+        <a href="http://dx.doi.org/10.1007/s11334-008-0055-2"  target="autre"><sup>DOI</sup></a>      </article>
+      </section>
+      <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>
+
+      <section>
+
+      <article>
+        Charles André, <span class="moi">F. Mallet</span> and Robert de Simone.
+        <span class="pubtitle">Modeling of AADL data-communications with UML Marte.</span>
+        <a href="http://dx.doi.org/10.1007/978-1-4020-8297-9_11"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Embedded Systems Specification and Design Languages</span>, LNEE, Vol. 10, pp. 150-170, Springer, May 2008.
+      </article>
+      </section>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
+
+      <section>
+
+      <article>
+        Su-Young Lee, <span class="moi">F. Mallet</span> and Robert De Simone.
+        <span class="pubtitle">Dealing with AADL End-to-end Flow Latency with UML MARTE.</span>
+        <a href="http://dx.doi.org/10.1109/ICECCS.2008.14"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Conf. on Engineering of Complex Computer Systems (ICECCS'08)</span>, pp. 228-233, IEEE Computer Society, Apr. 2008.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span> and Robert de Simone.
+        <span class="pubtitle">MARTE: A profile for RT/E Systems Modeling, Analysis (and Simulation?).</span>
+        <a href="http://portal.acm.org/citation.cfm?id=1416222.1416271"  target="autre"><sup>HREF</sup></a> <span class="invited">(invited)</span><br>
+      <span class="media">Int. Conf. on Simulation Tools and Techniques for Communications, Networks and Systems (SIMUTools'08)</span>, pp. , ACM Digital Library, Mar. 2008, ISBN: 978-963-9799-23-3.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span>, Robert de Simone and Laurent Rioux.
+        <span class="pubtitle">Event-triggered vs. time-triggered communications with UML Marte.</span>
+        <a href="http://dx.doi.org/10.1109/FDL.2008.4641438"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Forum on Specification, Verification and Design Languages (FDL'08)</span>, pp. 154-159, Sep. 2008.
+      </article>
+      </section>
+      <h2 class="category">Other / <span class="francais">Autre</span></h2>
+
+      <section>
+
+      <article>
+        Charles André, Benöit Ferrero and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">TimeSquare: a Multiform Time Simulation Environment.</span>
+      <span class="media">Sophia Antipolis and Formal Analysis Workshop</span>, Dec. 2008.
+      </article>
+
+      <article>
+        Charles André, <span class="moi">F. Mallet</span>, Aamir Mehmood Khan and Robert de Simone.
+        <span class="pubtitle">Modeling Spirit IP-XACT in UML Marte.</span>
+      <span class="media">Conf. on Design, Automation and Test in Europe (DATE), {MARTE Workshop}</span>, pp. 35-40, Mar. 2008.
+      </article>
+
+      <article>
+        J. Bézivin, J-M. Bruel and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">The Future of UML and Formal Methods.</span>
+      <span class="media">UML & FM Workshop, Kitakyushu, Japan</span>, Nov. 2009.
+ <span class="invited">(invited)</span>      </article>
+
+      <article>
+        Sébastien Demathieu, Sébastien Gérard and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Marte, le nouveau standard UML pour les systèmes temps réel embarqués.</span>
+      <span class="media">Mensuel Electronique 189</span>, pp. 2-6, Mar. 2008.
+ <span class="invited">(invited)</span>      </article>
+
+      <article>
+        Charles André and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">Clock Constraints in UML MARTE CCSL.</span>
+      Research Report, <a href="https://hal.inria.fr/inria-00280941">RR-6540</a>, INRIA, May 2008.
+      </article>
+
+      <article>
+        François Lagarde, <span class="moi">F. Mallet</span>, Charles André, Sébastien Gérard and François Terrier.
+        <span class="pubtitle">An Automated Process for Designing UML Profiles.</span>
+      Research Report, <a href="http://hal.inria.fr/inria-00308386/en/">RR-6599</a>, 17 pages, INRIA, Jul. 2008.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span> and Charles André.
+        <span class="pubtitle">UML/MARTE CCSL, Signal and Petri nets.</span>
+      Research Report, <a href="https://hal.inria.fr/inria-00283077">RR-6545</a>, INRIA, May 2008.
+      </article>
+
+      <article>
+        <span class="moi">F. Mallet</span>, Marie-Agnès Peraldi-Frati and Charles André.
+        <span class="pubtitle">Marte CCSL and East-ADL2 Timing Requirements.</span>
+      Research Report, <a href="http://hal.inria.fr/inria-00348134/en/">RR-6781</a>, INRIA, Dec. 2008.
+      </article>
+      </section>
     <!--#include file="footer.html"-->
     </div>
   </body>
