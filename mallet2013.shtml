@@ -55,19 +55,19 @@
       <span class="media">ICTERI, Revised Selected Papers</span>, Communications in Computer and Information Systems, Vol. 412, pp. 190-209, Springer, 2013, ISBN: 978-3-319-03998-5.
       </article>
       </section>
-      <h2 class="category">Conference Proceedings / <span class="francais">Actes de ConfÃ©rences</span></h2>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
 
       <section>
 
       <article>
-        BenoÃ®t Combemale, Julien DeAntoni, Matias Vara Larsen, <span class="moi">F. Mallet</span>, Olivier Barais, Benoit Baudry and Robert B. France.
+        Benoît Combemale, Julien DeAntoni, Matias Vara Larsen, <span class="moi">F. Mallet</span>, Olivier Barais, Benoit Baudry and Robert B. France.
         <span class="pubtitle">Reifying Concurrency for Executable Metamodeling.</span>
         <a href="http://dx.doi.org/10.1007/978-3-319-02654-1_20"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">Int. Conf. on Software Language Engineering (SLE'13)</span>, pp. 365-384, Springer, Oct. 2013.
       </article>
 
       <article>
-        Arda Goknil, Jagadish Suryadevara, Marie-AgnÃ¨s Peraldi-Frati and <span class="moi">F. Mallet</span>.
+        Arda Goknil, Jagadish Suryadevara, Marie-Agnès Peraldi-Frati and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Analysis Support for TADL2 Timing Constraints on EAST-ADL
 Models.</span>
         <a href="10.1007/978-3-642-39031-9_8"  target="autre"><sup>HREF</sup></a><br>
@@ -75,7 +75,7 @@ Models.</span>
       </article>
 
       <article>
-        Arda Goknil, Julien DeAntoni, Marie-AgnÃ¨s Peraldi-Frati and <span class="moi">F. Mallet</span>.
+        Arda Goknil, Julien DeAntoni, Marie-Agnès Peraldi-Frati and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Tool Support for the Analysis of TADL2 Timing Constraints
 Using TimeSquare.</span>
         <a href="http://dx.doi.org/10.1109/ICECCS.2013.28"  target="autre"><sup>DOI</sup></a><br>

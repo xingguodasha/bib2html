@@ -36,17 +36,17 @@
       <section>
 
       <article>
-        <span class="moi">F. Mallet</span>, Charles AndrÃ© and Robert de Simone.
+        <span class="moi">F. Mallet</span>, Charles André and Robert de Simone.
         <header>Logical time: specification vs. implementation.</header>
         <span class="media">ACM SIGSOFT Software Engineering Notes</span>        36(1):1-8, ACM, 2011.
         <a href="http://dx.doi.org/http://doi.acm.org/10.1145/1921532.1921554"  target="autre"><sup>DOI</sup></a>      </article>
       </section>
-      <h2 class="category">Conference Proceedings / <span class="francais">Actes de ConfÃ©rences</span></h2>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
 
       <section>
 
       <article>
-        Kelly GarcÃ©s, Julien DeAntoni and <span class="moi">F. Mallet</span>.
+        Kelly Garcés, Julien DeAntoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">A Model-Based Approach for Reconciliation of Polychronous
 Execution Traces.</span>
         <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/SEAA.2011.47"  target="autre"><sup>DOI</sup></a><br>
@@ -55,7 +55,7 @@ Applications (EUROMICRO-SEAA)</span>, pp. 259-266, IEEE, Sep. 2011.
       </article>
 
       <article>
-        RÃ©gis Gascon, <span class="moi">F. Mallet</span> and Julien DeAntoni.
+        Régis Gascon, <span class="moi">F. Mallet</span> and Julien DeAntoni.
         <span class="pubtitle">Logical Time and Temporal Logics: Comparing UML MARTE/CCSL
 and PSL.</span>
         <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/TIME.2011.10"  target="autre"><sup>DOI</sup></a><br>
@@ -64,7 +64,7 @@ and Reasoning (TIME)</span>, pp. 141-148, IEEE, Sep. 2011.
       </article>
 
       <article>
-        Isabelle Perseil, Laurent Pautet, Jean-FranÃ§ois Rolland, Mamoun Filali, Didier Delanote, Stefan Van Baelen, Wouter Joosen, Yolande Berbers, <span class="moi">F. Mallet</span>, Dominique Bertrand, SÃ©bastien Faucou, Abdelhafid Zitouni, Mahmoud BoufaÃ¯da, Lionel Seinturier, JoÃ«l Champeau, Thomas Abdoul, Peter H. Feiler, Chokri Mraidha and SÃ©bastien GÃ©rard.
+        Isabelle Perseil, Laurent Pautet, Jean-François Rolland, Mamoun Filali, Didier Delanote, Stefan Van Baelen, Wouter Joosen, Yolande Berbers, <span class="moi">F. Mallet</span>, Dominique Bertrand, Sébastien Faucou, Abdelhafid Zitouni, Mahmoud Boufaïda, Lionel Seinturier, Joël Champeau, Thomas Abdoul, Peter H. Feiler, Chokri Mraidha and Sébastien Gérard.
         <span class="pubtitle">An Efficient Modeling and Execution Framework for Complex
 Systems Development.</span>
         <a href="http://dx.doi.org/http://dx.doi.org/10.1109/ICECCS.2011.38"  target="autre"><sup>DOI</sup></a><br>
@@ -94,11 +94,11 @@ Computer Systems (ICECCS)</span>, pp. 65-74, IEEE Computer Society, Apr. 2011.
       <article>
         Carlos Gomez, Julien Deantoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Semantic Multi-View model for Low-Power.</span>
-        <a href="http://hal.inria.fr/hal-00596239/en"  target="autre"><sup>HREF</sup></a>      <span class="media">JournÃ©es nationales IDM, CAL, et du GDR GPL</span>, pp. 19, June 2011.
+        <a href="http://hal.inria.fr/hal-00596239/en"  target="autre"><sup>HREF</sup></a>      <span class="media">Journées nationales IDM, CAL, et du GDR GPL</span>, pp. 19, June 2011.
       </article>
 
       <article>
-        Jean-FranÃ§ois LE TALLEC, Julien DeAntoni, Robert De Simone, BenoÃ®t Ferrero, <span class="moi">F. Mallet</span> and Laurent Maillet-Contoz.
+        Jean-FranÃ§ois LE TALLEC, Julien DeAntoni, Robert De Simone, Benoît Ferrero, <span class="moi">F. Mallet</span> and Laurent Maillet-Contoz.
         <span class="pubtitle">Combining SystemC, IP-XACT and UML-MARTE in model-based SoC design.</span>
       <span class="media">Int. W. on Model Based Engineering for Embedded Systems Design, M-BED'11</span>, Mar. 2011.
       </article>
@@ -110,7 +110,7 @@ Computer Systems (ICECCS)</span>, pp. 65-74, IEEE Computer Society, Apr. 2011.
  <span class="invited">(invited)</span>      </article>
 
       <article>
-        Kelly GarcÃ©s, Julien Deantoni and <span class="moi">F. Mallet</span>.
+        Kelly Garcés, Julien Deantoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Transforming CCSL partially-ordered Traces into UML Interaction Diagrams.</span>
       Research Report, <a href="http://hal.archives-ouvertes.fr/hal-00652987/en/">RR-7842</a>, 30 pages, INRIA, Dec. 2011.
       </article>

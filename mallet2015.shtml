@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Fr&eacute;d&eacute;ric Mallet's publications (2015)</title>
+    <META http-equiv="Content-Style-Type" content="text/css">
+    <META http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <LINK href="../2014/" rel="Prev">
+    <LINK href="../2016/" rel="Next">
+    <LINK href="../fmpublis.css" rel="alternate stylesheet" type="text/css" title="2014">
+    <LINK href="../fmpublis3.css" rel="stylesheet" type="text/css" title="2015">
+    <META name="Author" lang=fr content="Frederic Mallet">
+    <META name="keywords" lang="en" content="UML, Real-Time, MARTE, SysML">
+    <META name="description" lang=fr content="publications Frederic Mallet 2015">
+  </head>
+
+  <body>
+    <!--#include file="nav.html"-->
+    <header class="top">
+      <h1>Publications (2015)</h1>
+    </header>
+
+    <div class="content">
+      <a href="mallet15.bib">BibTex</a>
+      <h2 class="category">Journal / <span class="francais">Revue</span></h2>
+
+      <section>
+
+      <article>
+        <span class="moi">F. Mallet</span> and Robert de Simone.
+        <header>Correctness issues on MARTE/CCSL constraints.</header>
+        <span class="media">Sci. Comput. Program.</span>        106:78-92, 2015.
+        <a href="http://dx.doi.org/10.1016/j.scico.2015.03.001"  target="autre"><sup>DOI</sup></a>      </article>
+
+      <article>
+        Calin Glitia, Julien DeAntoni, <span class="moi">F. Mallet</span>, Jean-Vivien Millo, Pierre Boulet and Abdoulaye Gamatié.
+        <header>Progressive and explicit refinement of scheduling for multidimensional data-flow applications using UML MARTE.</header>
+        <span class="media">Design Autom. for Emb. Sys.</span>        19(1-2):1-33, 2015.
+        <a href="http://dx.doi.org/10.1007/s10617-014-9140-y"  target="autre"><sup>DOI</sup></a>      </article>
+      </section>
+      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
+
+      <section>
+
+      <article>
+        <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">MARTE/CCSL for Modeling Cyber-Physical Systems.</span>
+        <a href="http://dx.doi.org/10.1007/978-3-658-09994-7_2"  target="autre"><sup>DOI</sup></a> <span class="invited">(invited)</span><br>
+      <span class="media">Formal Modeling and Verification of Cyber-Physical Systems, Int. Summer School on Methods and Tools for the Design of Digital Systems (SyDE)</span>, pp. 26-49, Springer, Sep. 2015.
+      </article>
+
+      <article>
+        Matias Ezequiel Vara Larsen, Julien DeAntoni, Benoît Combemale and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">A Behavioral Coordination Operator Language (BCOoL).</span>
+        <a href="http://dx.doi.org/10.1109/MODELS.2015.7338249"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">{ACM/IEEE} Int. Conf. on Model Driven Engineering Languages and Systems (MoDELS'15)</span>, pp. 186-195, Sep. 2015.
+      </article>
+
+      <article>
+        Min Zhang and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">An Executable Semantics of Clock Constraint Specification Language and Its Applications.</span>
+        <a href="http://dx.doi.org/10.1007/978-3-319-29510-7_2"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Int. Work. Formal Techniques for Safety-Critical Systems (FTSCS'15)</span>, pp. 37-51, Nov. 2015.
+      </article>
+      </section>
+      <h2 class="category">Other / <span class="francais">Autre</span></h2>
+
+      <section>
+
+      <article>
+        Matias Ezequiel Vara Larsen, Julien DeAntoni, Benoît Combemale and <span class="moi">F. Mallet</span>.
+        <span class="pubtitle">A Model-Driven Based Environment for Automatic Model Coordination.</span>
+      <span class="media">Demo and Poster Session, Models 2015</span>, pp. 44-47, Sep. 2015.
+      </article>
+      </section>
+    <!--#include file="footer.html"-->
+    </div>
+  </body>
+</html>

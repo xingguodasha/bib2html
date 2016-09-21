@@ -21,59 +21,6 @@
 
     <div class="content">
       <a href="mallet14.bib">BibTex</a>
-      <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>
-
-      <section>
-
-      <article>
-        Michel Bourdellès, Shuai Li, Imran Quadri, Etienne Brosse, Andrey Sadovykh, Emmanuel Gaudin, <span class="moi">F. Mallet</span>, Arda Goknil, David George and Jari Kreku.
-        <span class="pubtitle">Fostering Analysis from Industrial Embedded Systemis Modeling.</span>
-        <a href="http://www.igi-global.com/chapter/fostering-analysis-from-industrial-embedded-systems-modeling/116113"  target="autre"><sup>HREF</sup></a><br>
-      <span class="media">Handbook of Research on Embedded Systems Design</span>, pp. 283-300, IGI-Global, 2014.
-      </article>
-
-      <article>
-        <span class="moi">F. Mallet</span>, Marie-Agnès Peraldi-Frati, Julien DeAntoni and Robert de Simone.
-        <span class="pubtitle">UML MARTE Time Model and Its Clock Constraint Specification Language.</span>
-        <a href="http://www.igi-global.com/chapter/uml-marte-time-model-and-its-clock-specification-language/116103"  target="autre"><sup>HREF</sup></a><br>
-      <span class="media">Handbook of Research on Embedded Systems Design</span>, pp. 29-51, IGI-Global, 2014.
-      </article>
-      </section>
-      <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
-
-      <section>
-
-      <article>
-        Amani Khecharem, Carlos Gomez, Julien DeAntoni, <span class="moi">F. Mallet</span> and Robert de Simone.
-        <span class="pubtitle">Execution of heterogeneous models for thermal analysis with a multi-view approach.</span>
-        <a href="http://dx.doi.org/10.1109/FDL.2014.7119366"  target="autre"><sup>DOI</sup></a><br>
-      <span class="media">Forum on Specification and Design Languages (FDL'14)</span>, pp. 1-8, IEEE, Oct. 2014.
-      </article>
-
-      <article>
-        <span class="moi">F. Mallet</span> and Grygoriy Zholtkevych.
-        <span class="pubtitle">Coalgebraic Semantic Model for the Clock Constraint Specification Language.</span>
-        <a href="http://dx.doi.org/10.1007/978-3-319-17581-2_12"  target="autre"><sup>DOI</sup></a><br>
-      <span class="media">Int. Work. Formal Techniques for Safety-Critical Systems (ICFEM-FTSCS'14)</span>, pp. 174-188, Springer, Nov. 2014.
-      </article>
-
-      <article>
-        Yuanrui Zhang, <span class="moi">F. Mallet</span> and Yixiang Chen.
-        <span class="pubtitle">Timed Automata Semantics of Spatial-Temporal Consistency Language STeC.</span>
-        <a href="http://dx.doi.org/10.1109/TASE.2014.10"  target="autre"><sup>DOI</sup></a><br>
-      <span class="media">Theoretical Aspects of Software Engineering Conf. (TASE'14)</span>, pp. 201-208, IEEE Computer Society, Sep. 2014.
-      </article>
-      </section>
-      <h2 class="category">Other / <span class="francais">Autre</span></h2>
-
-      <section>
-
-      <article>
-        Matias Ezequel Vara Larsen, Julien DeAntoni and <span class="moi">F. Mallet</span>.
-        <span class="pubtitle">Framework for Heterogeneous Modeling and Composition.</span>
-      <span class="media">Conf. en Ingénierie du Logiciel(CIEL'14), pp. 81-86</span>, June 2014.
-      </article>
-      </section>
     <!--#include file="footer.html"-->
     </div>
   </body>
