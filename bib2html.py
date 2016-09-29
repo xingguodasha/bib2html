@@ -19,9 +19,9 @@ def month(entry):
     else:
         return m + ' '
        
-def pages(e):
+def pages(prefix, e):
     if 'pages' in e:
-        return e['pages'].replace('--', '-')
+        return prefix + e['pages'].replace('--', '-')
     else:
         print('no pages in', e['ID'])
         return ''
@@ -156,7 +156,7 @@ def vol_num(e,f):
         num = '(' + e['number'] + ')'
     else:
         num = ''
-    print('        ' + e['volume'] + num + ':' + pages(e), end='', file=f)
+    print('        ' + e['volume'] + num + pages(':',e), end='', file=f)
 
 def publisher_year(entry, f):
     print_publisher(entry, f)
@@ -281,7 +281,7 @@ def print_chapters(db, f):
 
         print_booktitle(entry, f)
 
-        print(', pp. ' + pages(e), end='', file=f)
+        print(pages(', pp. ', e), end='', file=f)
 
         publisher_year(entry, f)
         
@@ -312,8 +312,8 @@ def print_proc(db, f):
 
         print_proctitle(entry, f)
         print_lncs(e,f)
-        
-        print(', pp. ' + pages(e), end='', file=f)
+
+        print(pages(', pp. ', e), end='', file=f)
 
         publisher_year(entry, f)
         
@@ -352,8 +352,8 @@ def print_rr(db, f):
         print_doi(e, f)
         print('      <span class="media">' + e['note'] + "</span>", end='', file = f)
 
-        if 'pages' in e:
-            print(', pp. ' + pages(e), end='', file=f)
+        print(pages(', pp. ', e), end='', file=f)
+        
         if 'year' in e:
             print(', '+ month(Entry.Entry(db, e)) + e['year'], end='', file=f)
         else:
@@ -373,7 +373,7 @@ def print_rr(db, f):
         print('      ' + e['type'] + ', ' + number(e), end='', file = f)
 
         if 'pages' in e:
-            print(', ' + pages(e) + ' pages', end='', file=f)
+            print(pages(', ', e) + ' pages', end='', file=f)
         if 'institution' in e:
             print(', ' + e['institution'], end='', file=f)
         if 'year' in e:
