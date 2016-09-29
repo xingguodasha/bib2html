@@ -74,7 +74,11 @@ def invited(e,f):
 
 def print_doi(e,f): 
     if 'doi' in e:
-        url = 'http://dx.doi.org/' + e['doi']
+        doi = e['doi']
+        if doi.startswith('http:'):
+            url = doi
+        else:
+            url = 'http://dx.doi.org/' + e['doi']
         t = 'DOI'
     else:
         if 'url' in e:
