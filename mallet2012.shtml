@@ -29,7 +29,7 @@
         Calin Glitia, Julien DeAntoni, <span class="moi">F. Mallet</span>, Jean-Vivien Millo, Pierre Boulet and Abdoulaye Gamatié.
         <header>Progressive and explicit refinement of scheduling for multidimensional data-flow applications using UML/MARTE.</header>
         <span class="media">Design Automation for Embedded Systems</span>        16(2):137-169, Springer Netherlands, 2012.
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/s10617-012-9093-y"  target="autre"><sup>DOI</sup></a>      </article>
+        <a href="http://dx.doi.org/10.1007/s10617-012-9093-y"  target="autre"><sup>DOI</sup></a>      </article>
       </section>
       <h2 class="category">Book Chapter / <span class="francais">Chapitre de livre</span></h2>
 
@@ -49,14 +49,14 @@
       <article>
         Julien Deantoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">TimeSquare: Treat your Models with Logical Time.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/978-3-642-30561-0_4"  target="autre"><sup>DOI</sup></a><br>
+        <a href="http://dx.doi.org/10.1007/978-3-642-30561-0_4"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">Int. Conf. on Objects, Models, Components, Patterns, (TOOLS(50))</span>, LNCS 7304, pp. 34-41, Springer, May 2012.
       </article>
 
       <article>
         Carlos Gomez, Julien DeAntoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Multi-view Power Modeling Based on UML, MARTE and SysML.</span>
-        <a href="http://dx.doi.org/http://doi.ieeecomputersociety.org/10.1109/SEAA.2012.66"  target="autre"><sup>DOI</sup></a><br>
+        <a href="http://doi.ieeecomputersociety.org/10.1109/SEAA.2012.66"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">Euromicro Conf. on Software Engineering and Advanced Applications (EUROMICRO-SEAA)</span>, pp. 17-20, IEEE Computer Society, Sep. 2012.
       </article>
 
@@ -71,7 +71,7 @@ Software Engineering (TASE'12)</span>, pp. 59-66, IEEE, Jul. 2012.
       <article>
         <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Automatic generation of observers from MARTE/CCSL.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/RSP.2012.6380695"  target="autre"><sup>DOI</sup></a><br>
+        <a href="http://dx.doi.org/10.1109/RSP.2012.6380695"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">nternational Symp. on Rapid System Prototyping (RSP'12)</span>, pp. 86-92, IEEE, October 2012.
       </article>
       </section>
