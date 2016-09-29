@@ -38,8 +38,8 @@
       <article>
         <span class="moi">F. Mallet</span>, Charles André and François Lagarde.
         <header>Un processus automatique pour concevoir les profils UML.</header>
-        <span class="media">Technique et Sciences Informatiques</span>        29(4--5):391-419, Mai 2010.
-      </article>
+        <span class="media">Technique et Sciences Informatiques</span>        29(4--5):391-419, May 2010.
+        <a href="http://dx.doi.org/10.3166/tsi.29.391-419"  target="autre"><sup>DOI</sup></a>      </article>
 
       <article>
         <span class="moi">F. Mallet</span>, Julien DeAntoni, Charles André and Robert de Simone.
@@ -61,8 +61,8 @@
       <article>
         <span class="moi">F. Mallet</span>, Charles André and Robert de Simone.
         <span class="pubtitle">IP-Xact components with Abstract Time Characterization.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1007/978-90-481-9304-2_1"  target="autre"><sup>DOI</sup></a><br>
-      <span class="media">Advances in Design Methods from Modeling Languages for Embedded Systems and SoCs</span>, LNEE, Vol. 63, pp. 3-18, Springer, July 2010.
+        <a href="http://dx.doi.org/10.1007/978-90-481-9304-2_1"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Advances in Design Methods from Modeling Languages for Embedded Systems and SoCs</span>, LNEE, Vol. 63, pp. 3-18, Springer, Jul. 2010.
       </article>
       </section>
       <h2 class="category">Conference Proceedings / <span class="francais">Actes de Conférences</span></h2>
@@ -72,7 +72,7 @@
       <article>
         Charles André, <span class="moi">F. Mallet</span> and Julien DeAntoni.
         <span class="pubtitle">VHDL Observers for Clock Constraint Checking.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1109/SIES.2010.5551372"  target="autre"><sup>DOI</sup></a><br>
+        <a href="http://dx.doi.org/10.1109/SIES.2010.5551372"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">Int. Symp. on Industrial Embedded
 Systems (SIES)</span>, pp. 98-107, IEEE, Jul. 2010.
       </article>
@@ -80,7 +80,7 @@ Systems (SIES)</span>, pp. 98-107, IEEE, Jul. 2010.
       <article>
         Julien DeAntoni, <span class="moi">F. Mallet</span>, Frédéric Thomas, Gonzague Reydet, Jean-Philippe Babau, Chokri Mraidha, Ludovic Gauthier, Laurent Rioux and Nicolas Sordon.
         <span class="pubtitle">RT-simex: retro-analysis of execution traces.</span>
-        <a href="http://dx.doi.org/http://doi.acm.org/10.1145/1882291.1882357"  target="autre"><sup>DOI</sup></a><br>
+        <a href="http://dx.doi.org/10.1145/1882291.1882357"  target="autre"><sup>DOI</sup></a><br>
       <span class="media">ACM SIGSOFT Int. Symp.
 on Foundations of Software Engineering (SIGSOFT FSE)</span>, pp. 377-378, ACM, Nov. 2010.
       </article>
@@ -89,9 +89,8 @@ on Foundations of Software Engineering (SIGSOFT FSE)</span>, pp. 377-378, ACM, N
         Calin Glitia, Julien DeAntoni and <span class="moi">F. Mallet</span>.
         <span class="pubtitle">Logical Time at Work: Capturing Data Dependencies and Platform
 Constraints.</span>
-        <a href="http://dx.doi.org/http://dx.doi.org/10.1049/ic.2010.0159"  target="autre"><sup>DOI</sup></a><br>
-      <span class="media">Forum on specification {&} Design
-Languages (FDL)</span>, pp. 241-248, ECSI, Electronic Chips & Systems design Initiative, Sep. 2010.
+        <a href="http://dx.doi.org/10.1049/ic.2010.0159"  target="autre"><sup>DOI</sup></a><br>
+      <span class="media">Forum on specification and Design Languages (FDL)</span>, pp. 241-248, ECSI, Electronic Chips & Systems design Initiative, Sep. 2010.
       </article>
 
       <article>
